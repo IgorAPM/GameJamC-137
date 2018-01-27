@@ -1,4 +1,8 @@
+<<<<<<< refs/remotes/origin/develop
 ﻿Log file open, 01/27/18 16:42:14
+=======
+﻿Log file open, 01/27/18 15:31:39
+>>>>>>> Dishes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +11,21 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: TheMaze
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< refs/remotes/origin/develop
 LogInit: Display: RandInit(806990859) SRandInit(806990859).
+=======
+LogInit: Display: RandInit(-792885960) SRandInit(-792885960).
+>>>>>>> Dishes
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
+<<<<<<< refs/remotes/origin/develop
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.964693
+=======
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.223928
+>>>>>>> Dishes
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -189,11 +202,12 @@ LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line:  
+LogInit: Command line: 
 LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< refs/remotes/origin/develop
 [2018.01.27-18.42.22:913][  0]LogInit: Selected Device Profile: [Windows]
 [2018.01.27-18.42.22:913][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.01.27-18.42.22:959][  0]LogInit: Computer: LAPTOP-FQD9TJSN
@@ -1053,3 +1067,834 @@ LogInit: Object subsystem initialized
 [2018.01.27-19.19.36:166][649]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2018.01.27-19.19.36:197][649]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
 [2018.01.27-19.19.36:298][649]LogModuleManager: Shutting down and abandoning module PakFile (2)
+=======
+[2018.01.27-18.31.41:810][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-18.31.41:810][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.27-18.31.41:845][  0]LogInit: Computer: LAPTOP-GU3S6S0I
+[2018.01.27-18.31.41:845][  0]LogInit: User: MatheusDantas
+[2018.01.27-18.31.41:846][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.27-18.31.41:846][  0]LogInit: High frequency timer resolution =2.742185 MHz
+[2018.01.27-18.31.41:846][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.27-18.31.41:846][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.27-18.31.41:846][  0]LogMemory: Process Physical Memory: 272.21 MB used, 272.21 MB peak
+[2018.01.27-18.31.41:846][  0]LogMemory: Process Virtual Memory: 269.67 MB used, 269.67 MB peak
+[2018.01.27-18.31.41:846][  0]LogMemory: Physical Memory: 6228.86 MB used,  1876.77 MB free, 8105.62 MB total
+[2018.01.27-18.31.41:846][  0]LogMemory: Virtual Memory: 677.50 MB used,  1876.77 MB free, 134217728.00 MB total
+[2018.01.27-18.31.42:020][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.01.27-18.31.42:020][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.01.27-18.31.42:482][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.27-18.31.42:760][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.27-18.31.42:828][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.01.27-18.31.42:828][  0]LogD3D11RHI:       4021/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.27-18.31.42:839][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.27-18.31.42:839][  0]LogD3D11RHI:       128/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.27-18.31.42:842][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.27-18.31.42:842][  0]LogD3D11RHI:       0/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.27-18.31.42:842][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.27-18.31.42:851][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.27-18.31.42:851][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.01.27-18.31.42:851][  0]LogWindows: EnumDisplayDevices:
+[2018.01.27-18.31.42:851][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.27-18.31.42:851][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.27-18.31.42:852][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.27-18.31.42:852][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.27-18.31.42:852][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.01.27-18.31.42:852][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.27-18.31.42:852][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.27-18.31.42:852][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.01.27-18.31.42:883][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.27-18.31.42:915][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.27-18.31.42:915][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Intermediate/Shaders/WorkingDirectory/13724/).
+[2018.01.27-18.31.42:915][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matheus Dantas/AppData/Local/Temp/UnrealShaderWorkingDir/62B2736F4DCA57BFDA39CD83E4C63157/'.
+[2018.01.27-18.31.42:915][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.27-18.31.44:181][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.27-18.31.44:245][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.27-18.31.44:308][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.27-18.31.44:363][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.27-18.31.44:423][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.27-18.31.44:488][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.27-18.31.44:549][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.27-18.31.44:618][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.27-18.31.44:677][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.27-18.31.44:770][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.27-18.31.44:862][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.27-18.31.44:948][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.27-18.31.45:011][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.27-18.31.45:085][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.27-18.31.45:220][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.27-18.31.45:220][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.27-18.31.45:282][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.27-18.31.45:332][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.27-18.31.45:435][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.27-18.31.45:467][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.27-18.31.45:521][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.27-18.31.45:595][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.27-18.31.45:651][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.27-18.31.45:705][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.27-18.31.45:705][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.27-18.31.46:223][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.27-18.31.46:299][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Matheus Dantas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-18.31.46:299][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matheus Dantas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.27-18.31.46:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.27-18.31.46:299][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.27-18.31.46:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.27-18.31.46:299][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.27-18.31.46:316][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.27-18.31.46:328][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matheus Dantas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.27-18.31.46:337][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.27-18.31.46:338][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.27-18.31.46:338][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-18.31.46:338][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-18.31.46:727][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-18.31.47:081][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.27-18.31.47:125][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.27-18.31.47:125][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.27-18.31.47:125][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.27-18.31.47:125][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.27-18.31.47:125][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.27-18.31.47:157][  0]LogNetVersion: TheMaze , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3710529420)
+[2018.01.27-18.31.47:349][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.01.27-18.31.47:932][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.033558 seconds
+[2018.01.27-18.31.47:937][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.27-18.31.47:937][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.27-18.31.47:937][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.27-18.31.47:994][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.27-18.31.51:191][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.27-18.31.51:235][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.27-18.31.51:953][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.27-18.31.52:420][  0]SourceControl: Source control is disabled
+[2018.01.27-18.31.52:421][  0]SourceControl: Source control is disabled
+[2018.01.27-18.31.52:480][  0]SourceControl: Source control is disabled
+[2018.01.27-18.31.52:536][  0]SourceControl: Source control is disabled
+[2018.01.27-18.31.53:417][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.27-18.31.53:711][  0]LogOcInput: OculusInput pre-init called
+[2018.01.27-18.31.54:018][  0]LogEngine: Initializing Engine...
+[2018.01.27-18.31.54:020][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.27-18.31.54:248][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.27-18.31.54:298][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.27-18.31.54:441][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-18.31.54:449][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-18.31.54:465][  0]LogInit: FAudioDevice initialized.
+[2018.01.27-18.31.54:955][  0]LogDerivedDataCache: Saved boot cache 0.49s 78MB C:/Users/Matheus Dantas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-18.31.54:974][  0]LogInit: Texture streaming: Enabled
+[2018.01.27-18.31.55:077][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.27-18.31.55:443][  0]LogInit: Transaction tracking system initialized
+[2018.01.27-18.31.55:796][  0]BlueprintLog: New page: Editor Load
+[2018.01.27-18.31.56:749][  0]LocalizationService: Localization service is disabled
+[2018.01.27-18.31.57:531][  0]LogConsoleResponse: Display: 
+[2018.01.27-18.31.58:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/' took 0.02s
+[2018.01.27-18.31.58:144][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.27-18.31.58:144][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.27-18.31.58:144][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.27-18.31.59:429][  0]SourceControl: Source control is disabled
+[2018.01.27-18.31.59:429][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-18.31.59:429][  0]LightingResults: New page: Lighting Build
+[2018.01.27-18.31.59:474][  0]MapCheck: New page: Map Check
+[2018.01.27-18.31.59:474][  0]LightingResults: New page: Lighting Build
+[2018.01.27-18.31.59:915][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.27-18.31.59:921][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-18.31.59:932][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-18.31.59:980][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.928ms to complete.
+[2018.01.27-18.31.59:980][  0]LogFileHelpers: Loading map 'Template_Default' took 0.552
+[2018.01.27-18.32.00:047][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.27-18.32.00:996][  0]LogCollectionManager: Loaded 0 collections in 0.001501 seconds
+[2018.01.27-18.32.01:170][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Collections/' took 0.01s
+[2018.01.27-18.32.01:170][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Developers/MatheusDantas/Collections/' took 0.01s
+[2018.01.27-18.32.01:170][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Collections/' took 0.01s
+[2018.01.27-18.32.01:170][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.27-18.32.01:183][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2363 classes and 519 folders.
+[2018.01.27-18.32.01:353][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.27-18.32.02:873][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.27-18.32.03:088][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.27-18.32.03:811][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.27-18.32.03:811][  0]LogLoad: (Engine Initialization) Total time: 25.36 seconds
+[2018.01.27-18.32.03:811][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.27-18.32.03:811][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.27-18.32.03:994][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.01.27-18.32.03:995][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-18.32.03:996][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.27-18.32.04:076][  0]LogSlate: Took 0.073612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.27-18.32.04:727][  0]LogRenderer: Reallocating scene render targets to support 760x360 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-18.32.04:727][  0]LogSlate: Took 0.030540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-18.32.04:916][  1]LogAssetRegistry: Asset discovery search completed in 17.5882 seconds
+[2018.01.27-18.32.04:919][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.27-18.32.04:919][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.01.27-18.32.07:284][103]LogRenderer: Reallocating scene render targets to support 1144x600 Format 10 NumSamples 1 (Frame:102).
+[2018.01.27-18.32.52:940][704]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-18.32.53:802][704]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-18.32.56:691][704]LogAIModule: Creating AISystem for world NewMap
+[2018.01.27-18.32.56:791][704]Cmd: MAP LOAD FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-18.32.56:791][704]LightingResults: New page: Lighting Build
+[2018.01.27-18.32.56:792][704]LoadErrors: New page: Loading map: NewMap.umap
+[2018.01.27-18.32.56:792][704]MapCheck: New page: Map Check
+[2018.01.27-18.32.56:792][704]LightingResults: New page: Lighting Build
+[2018.01.27-18.32.56:971][704]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-18.32.57:009][704]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-18.32.57:071][704]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.911ms to complete.
+[2018.01.27-18.32.57:072][704]LogFileHelpers: Loading map 'NewMap' took 0.282
+[2018.01.27-18.33.12:621][168]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Antena.fbx)
+[2018.01.27-18.33.13:212][168]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-18.33.13:212][168]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-18.33.13:212][168]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.27-18.33.13:212][168]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.01.27-18.33.13:212][168]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-18.33.13:240][168]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Antena.fbx
+[2018.01.27-18.33.13:293][168]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.33.38:647][168]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Antena.fbx
+[2018.01.27-18.33.38:663][168]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.33.38:669][168]LogLinker: Can't find file '/Game/Assets/M_Antena'
+[2018.01.27-18.33.38:669][168]LogLinker: Can't find file '/Game/Assets/M_Antena'
+[2018.01.27-18.33.38:820][168]LogMaterial: Missing cached shader map for material M_Antena, compiling. 
+[2018.01.27-18.33.38:988][168]LogFbx: Warning: Triangulating static mesh Cylinder
+[2018.01.27-18.33.39:100][168]LogStaticMesh: Building static mesh SM_Antena...
+[2018.01.27-18.33.39:287][168]LogStaticMesh: Built static mesh [0.24s] /Game/Assets/SM_Antena.SM_Antena
+[2018.01.27-18.33.39:917][168]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-18.33.39:917][168]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.01.27-18.33.53:334][702]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Antena.fbx)
+[2018.01.27-18.33.53:349][702]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-18.33.53:349][702]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-18.33.53:349][702]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.27-18.33.53:349][702]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.01.27-18.33.53:349][702]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-18.33.53:354][702]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Antena.fbx
+[2018.01.27-18.33.53:389][702]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.34.28:651][702]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Antena.fbx
+[2018.01.27-18.34.28:668][702]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.34.28:712][702]LogMaterial: Missing cached shader map for material M_Antena, compiling. 
+[2018.01.27-18.34.28:733][702]LogFbx: Warning: Triangulating static mesh Cylinder
+[2018.01.27-18.34.28:786][702]LogStaticMesh: Building static mesh SM_Antena...
+[2018.01.27-18.34.28:805][702]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/SM_Antena.SM_Antena
+[2018.01.27-18.34.29:104][702]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-18.34.29:104][702]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.01.27-18.34.36:886][117]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.01.27-18.34.44:340][471]LogActorFactory: Actor Factory created SM_Antena
+[2018.01.27-18.34.45:190][518]LogActorFactory: Actor Factory created SM_Antena
+[2018.01.27-18.36.04:589][199]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-18.36.09:028][436]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-18.36.54:800][679]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-18.36.56:480][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-18.36.57:463][776]LogSavePackage: Save=950.59ms
+[2018.01.27-18.36.57:464][776]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap22A5C5AD48C7BB3137057481BEA958CF.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap'
+[2018.01.27-18.36.57:484][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap
+[2018.01.27-18.36.57:558][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.01.27-18.36.57:586][776]LogSavePackage: Save=17.23ms
+[2018.01.27-18.36.57:586][776]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_BuiltData2D4070F444DF8506E5F5C396045C5C59.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset'
+[2018.01.27-18.36.57:588][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset
+[2018.01.27-18.36.58:801][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-18.36.59:577][845]LogSavePackage: Save=761.90ms
+[2018.01.27-18.36.59:577][845]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap475CD49B4FDC8448C72DBB8B76A7AA28.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap'
+[2018.01.27-18.36.59:580][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap
+[2018.01.27-18.36.59:612][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.01.27-18.36.59:633][845]LogSavePackage: Save=16.07ms
+[2018.01.27-18.36.59:633][845]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_BuiltData5379264D42343B783BB0239D785DE566.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset'
+[2018.01.27-18.36.59:634][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset
+[2018.01.27-18.43.41:066][472]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Teclado.fbx)
+[2018.01.27-18.43.41:740][472]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-18.43.41:740][472]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-18.43.41:740][472]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-18.43.41:740][472]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.27-18.43.41:745][472]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Teclado.fbx
+[2018.01.27-18.43.41:983][472]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.43.51:017][472]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Teclado.fbx
+[2018.01.27-18.43.51:104][472]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.43.51:112][472]LogLinker: Can't find file '/Game/Assets/M_Teclado'
+[2018.01.27-18.43.51:112][472]LogLinker: Can't find file '/Game/Assets/M_Teclado'
+[2018.01.27-18.43.51:166][472]LogMaterial: Missing cached shader map for material M_Teclado, compiling. 
+[2018.01.27-18.43.51:619][472]LogStaticMesh: Building static mesh SM_Teclado...
+[2018.01.27-18.43.52:644][472]LogStaticMesh: Built static mesh [1.22s] /Game/Assets/SM_Teclado.SM_Teclado
+[2018.01.27-18.43.53:554][472]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-18.43.58:698][738]LogActorFactory: Actor Factory created SM_Teclado
+[2018.01.27-18.44.01:612][912]LogActorFactory: Actor Factory created SM_Teclado
+[2018.01.27-18.45.10:451][  0]Cmd: DELETE
+[2018.01.27-18.45.10:451][  0]Cmd: ACTOR DELETE
+[2018.01.27-18.45.10:737][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-18.45.10:747][  0]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2018.01.27-18.46.20:942][620]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Teclado.fbx)
+[2018.01.27-18.46.20:962][620]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-18.46.20:962][620]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-18.46.20:962][620]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-18.46.20:962][620]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.27-18.46.20:968][620]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Teclado.fbx
+[2018.01.27-18.46.21:054][620]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.46.22:071][620]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_Teclado.fbx
+[2018.01.27-18.46.22:159][620]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.46.22:170][620]LogMaterial: Missing cached shader map for material M_Teclado, compiling. 
+[2018.01.27-18.46.22:683][620]LogStaticMesh: Building static mesh SM_Teclado...
+[2018.01.27-18.46.23:690][620]LogStaticMesh: Built static mesh [1.25s] /Game/Assets/SM_Teclado.SM_Teclado
+[2018.01.27-18.46.24:617][620]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-18.46.29:174][853]LogActorFactory: Actor Factory created SM_Teclado
+[2018.01.27-18.46.30:179][913]LogActorFactory: Actor Factory created SM_Teclado
+[2018.01.27-18.48.12:879][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-18.48.19:369][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Antena)
+[2018.01.27-18.48.31:803][160]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-18.48.51:302][306]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.01.27-18.50.13:190][884]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-18.50.40:647][281]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-18.51.00:453][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Teclado)
+[2018.01.27-18.51.40:706][642]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-18.51.49:728][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.27-18.51.50:686][669]LogSavePackage: Save=942.91ms
+[2018.01.27-18.51.50:686][669]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_Auto1876433D846B45DEEAEB1709C40B81D66.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2018.01.27-18.51.50:689][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto1.umap
+[2018.01.27-18.51.50:691][669]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.989
+[2018.01.27-18.51.50:691][669]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.989
+[2018.01.27-18.51.50:708][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_Antena] ([1] browsable assets)...
+[2018.01.27-18.51.50:797][669]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_Antena.SM_Antena]
+[2018.01.27-18.51.50:797][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_Antena]
+[2018.01.27-18.51.50:819][669]LogSavePackage: Save=20.28ms
+[2018.01.27-18.51.50:820][669]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/SM_Antena_Auto1394AAD1F4A4DC90F04622CA9CCEBFAE9.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/SM_Antena_Auto1.uasset'
+[2018.01.27-18.51.50:821][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/SM_Antena_Auto1.uasset
+[2018.01.27-18.51.50:822][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_Antena] ([1] browsable assets)...
+[2018.01.27-18.51.50:872][669]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_Antena.M_Antena]
+[2018.01.27-18.51.50:872][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Antena]
+[2018.01.27-18.51.50:905][669]LogSavePackage: Save=31.55ms
+[2018.01.27-18.51.50:906][669]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/M_Antena_Auto1684F466F415A57C5ADC04C832B8AD457.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_Antena_Auto1.uasset'
+[2018.01.27-18.51.50:908][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_Antena_Auto1.uasset
+[2018.01.27-18.51.50:908][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_Teclado] ([1] browsable assets)...
+[2018.01.27-18.51.50:962][669]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_Teclado.SM_Teclado]
+[2018.01.27-18.51.50:963][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_Teclado]
+[2018.01.27-18.51.51:046][669]LogSavePackage: Save=81.12ms
+[2018.01.27-18.51.51:046][669]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/SM_Teclado_Auto1ACD61A124A65A60E700747862DC74CD6.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/SM_Teclado_Auto1.uasset'
+[2018.01.27-18.51.51:049][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/SM_Teclado_Auto1.uasset
+[2018.01.27-18.51.51:049][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_Teclado] ([1] browsable assets)...
+[2018.01.27-18.51.51:064][669]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_Teclado.M_Teclado]
+[2018.01.27-18.51.51:064][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Teclado]
+[2018.01.27-18.51.51:082][669]LogSavePackage: Save=14.76ms
+[2018.01.27-18.51.51:082][669]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/M_Teclado_Auto1058CC1F34A534969CC21968D139F9ABD.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_Teclado_Auto1.uasset'
+[2018.01.27-18.51.51:084][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_Teclado_Auto1.uasset
+[2018.01.27-18.51.51:084][669]LogFileHelpers: Auto-saving content packages took 0.391
+[2018.01.27-18.57.47:938][881]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_PC.fbx)
+[2018.01.27-18.57.47:949][881]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.27-18.57.47:949][881]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.27-18.57.47:949][881]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.27-18.57.47:949][881]LogFbx: ItemName: Material, ItemCount : 2
+[2018.01.27-18.57.47:954][881]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_PC.fbx
+[2018.01.27-18.57.47:968][881]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.57.52:752][881]LogFbx: Loading FBX Scene from ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/SM_PC.fbx
+[2018.01.27-18.57.52:765][881]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.27-18.57.52:767][881]LogLinker: Can't find file '/Game/Assets/M_BordasDoPC'
+[2018.01.27-18.57.52:767][881]LogLinker: Can't find file '/Game/Assets/M_BordasDoPC'
+[2018.01.27-18.57.52:773][881]LogMaterial: Missing cached shader map for material M_BordasDoPC, compiling. 
+[2018.01.27-18.57.52:817][881]LogStaticMesh: Building static mesh SM_PC...
+[2018.01.27-18.57.53:098][881]LogStaticMesh: Built static mesh [0.28s] /Game/Assets/SM_PC.SM_PC
+[2018.01.27-18.57.53:209][881]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.27-18.57.58:002][118]LogActorFactory: Actor Factory created SM_PC
+[2018.01.27-18.57.59:313][192]LogActorFactory: Actor Factory created SM_PC
+[2018.01.27-18.58.54:798][496]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.27-18.59.01:987][922]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.27-18.59.12:374][538]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.27-18.59.15:541][705]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.27-18.59.25:427][297]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.27-18.59.27:093][397]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-18.59.27:278][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-18.59.27:302][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-18.59.27:348][397]PIE: New page: PIE session: NewMap (Jan 27, 2018, 12:59:27 PM)
+[2018.01.27-18.59.27:359][397]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.27-18.59.27:420][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060718s)
+[2018.01.27-18.59.27:421][397]LogAIModule: Creating AISystem for world NewMap
+[2018.01.27-18.59.27:422][397]LogPlayLevel: PIE: World Init took: (0.001759s)
+[2018.01.27-18.59.27:422][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.062917s)
+[2018.01.27-18.59.27:467][397]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-18.59.27:479][397]LogInit: FAudioDevice initialized.
+[2018.01.27-18.59.27:537][397]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-18.59.27:564][397]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-15.59.27
+[2018.01.27-18.59.27:598][397]LogWorld: Bringing up level for play took: 0.037401
+[2018.01.27-18.59.27:775][397]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.01.27-18.59.27:937][397]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.353
+[2018.01.27-18.59.27:937][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.01.50:570][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.01.50:847][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.02.32:310][400]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.27-19.02.35:056][561]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.27-19.02.37:035][679]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.27-19.02.38:971][795]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.27-19.02.47:431][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-19.02.48:497][299]LogSavePackage: Save=1038.53ms
+[2018.01.27-19.02.48:498][299]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap2360B1DF4ABFAC029AE6EE89AC11BD59.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap'
+[2018.01.27-19.02.48:508][299]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap
+[2018.01.27-19.02.48:556][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.01.27-19.02.48:579][299]LogSavePackage: Save=13.68ms
+[2018.01.27-19.02.48:579][299]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_BuiltData6A9651B349D17CCAE9E2F6B14AE380FC.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset'
+[2018.01.27-19.02.48:580][299]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset
+[2018.01.27-19.02.50:413][402]MapCheck: New page: Map Check
+[2018.01.27-19.02.50:449][402]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.27-19.02.50:449][402]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.27-19.02.53:523][402]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.27-19.02.53:563][402]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.01.27-19.02.53:571][402]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.27-19.02.53:578][402]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Antena, compiling. 
+[2018.01.27-19.02.53:585][402]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Teclado, compiling. 
+[2018.01.27-19.02.53:612][402]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_BordasDoPC, compiling. 
+[2018.01.27-19.02.54:102][402]TextureStreamingBuild: Display: Compiling optional shaders took 0.625 seconds.
+[2018.01.27-19.02.54:178][402]LogLevel: Display: Export Material TexCoord Scales took 0.076 seconds.
+[2018.01.27-19.02.54:237][402]TextureStreamingBuild: Display: Build Texture Streaming took 0.059 seconds.
+[2018.01.27-19.02.54:282][402]LightingResults: New page: Lighting Build - Jan 27, 2018, 1:02:54 PM
+[2018.01.27-19.02.54:852][402]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.27-19.02.55:047][402]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.27-19.02.55:155][402]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.27-19.02.58:155][402]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.01.27-19.02.58:363][402]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente 127.0.0.1:8008
+
+Server stack trace: 
+   em System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   em System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   em System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   em System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   em System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   em System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   em System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   em System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   em System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   em NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   em NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.01.27-19.03.03:723][402]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.27-19.03.03:723][402]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13724
+[2018.01.27-19.03.09:721][402]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.27-19.03.09:744][402]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.27-19.03.09:744][402]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.27-19.03.09:744][402]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.27-19.03.09:744][402]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.27-19.03.09:745][402]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.27-19.03.11:053][402]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.27-19.03.11:053][402]MapCheck: New page: NewMap - Jan 27, 2018, 1:03:11 PM
+[2018.01.27-19.03.11:109][402]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.27-19.03.11:171][402]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 117.95ms to complete.
+[2018.01.27-19.03.11:193][402]LogEditorBuildUtils: Build time 0:20
+[2018.01.27-19.03.11:463][403]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Antena, compiling. 
+[2018.01.27-19.03.11:470][403]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Antena, compiling. 
+[2018.01.27-19.03.11:529][404]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Teclado, compiling. 
+[2018.01.27-19.03.11:564][404]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Teclado, compiling. 
+[2018.01.27-19.03.11:590][405]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_BordasDoPC, compiling. 
+[2018.01.27-19.03.11:618][405]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_BordasDoPC, compiling. 
+[2018.01.27-19.03.24:358][952]Job is a success!
+[2018.01.27-19.03.24:529][953]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.050s
+[2018.01.27-19.03.24:529][953]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.27-19.03.24:529][953]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 1.8Mb
+[2018.01.27-19.03.24:529][953]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.27-19.03.24:529][953]LogVolumetricLightmapImport:          0: 0.3% covering 100.0% of volume
+[2018.01.27-19.03.24:529][953]LogVolumetricLightmapImport:          1: 4.2% covering 25.0% of volume
+[2018.01.27-19.03.24:529][953]LogVolumetricLightmapImport:          2: 95.5% covering 8.9% of volume
+[2018.01.27-19.03.24:947][953]LogMaterial: Warning: Material /Game/Assets/M_Teclado.M_Teclado needed to have new flag set bUsedWithStaticLighting !
+[2018.01.27-19.03.24:950][953]LogMaterial: Missing cached shader map for material M_Teclado, compiling. 
+[2018.01.27-19.03.24:988][953]LogMaterial: Warning: Material /Game/Assets/M_BordasDoPC.M_BordasDoPC needed to have new flag set bUsedWithStaticLighting !
+[2018.01.27-19.03.25:018][953]LogMaterial: Missing cached shader map for material M_BordasDoPC, compiling. 
+[2018.01.27-19.03.25:062][953]LogMaterial: Warning: Material /Game/Assets/M_Antena.M_Antena needed to have new flag set bUsedWithStaticLighting !
+[2018.01.27-19.03.25:299][953]LogMaterial: Missing cached shader map for material M_Antena, compiling. 
+[2018.01.27-19.03.26:314][953]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.01.27-19.03.26:315][953]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.01.27-19.03.26:315][953]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.27-19.03.26:315][953]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.27-19.03.26:315][953]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.01.27-19.03.26:315][953]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.01.27-19.03.26:315][953]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.01.27-19.03.26:315][953]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.01.27-19.03.26:515][953]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2018.01.27-19.03.26:515][953]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2018.01.27-19.03.26:812][953]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.01.27-19.03.27:252][953]Lightmass on LAPTOP-GU3S6S0I: 11.9 sec total, 499 ms importing, 107 ms setup, 2.01 sec photons, 9.32 sec processing, 0 ms extra exporting [845/845 mappings]. Threads: 1:05 min total, 25.7 sec processing.
+[2018.01.27-19.03.29:733][953]LogStaticLightingSystem: Illumination: 35.3 sec (915 ms encoding lightmaps, 496 ms encoding shadowmaps)
+[2018.01.27-19.03.29:733][953]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (0.1 MB streaming, 4.0 MB non-streaming), 8 textures
+[2018.01.27-19.03.29:733][953]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.0 MB streaming, 1.3 MB non-streaming), 3 textures
+[2018.01.27-19.03.35:646][953]DumpUnbuiltLightIteractions
+[2018.01.27-19.03.35:646][953]Lights with unbuilt interactions: 0
+[2018.01.27-19.03.35:646][953]
+[2018.01.27-19.03.35:646][953]Primitives with unbuilt interactions: 0
+[2018.01.27-19.03.35:820][954]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.27-19.03.35:820][954]MapCheck: New page: NewMap - Jan 27, 2018, 1:03:35 PM
+[2018.01.27-19.03.35:876][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.588ms to complete.
+[2018.01.27-19.04.10:749][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-19.04.10:766][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.04.10:767][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-19.04.10:767][ 40]PIE: New page: PIE session: NewMap (Jan 27, 2018, 1:04:10 PM)
+[2018.01.27-19.04.10:767][ 40]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.27-19.04.10:824][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057493s)
+[2018.01.27-19.04.10:825][ 40]LogAIModule: Creating AISystem for world NewMap
+[2018.01.27-19.04.10:825][ 40]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2018.01.27-19.04.10:826][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.058868s)
+[2018.01.27-19.04.10:836][ 40]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-19.04.10:849][ 40]LogInit: FAudioDevice initialized.
+[2018.01.27-19.04.10:883][ 40]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-19.04.10:889][ 40]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-16.04.10
+[2018.01.27-19.04.10:890][ 40]LogWorld: Bringing up level for play took: 0.006239
+[2018.01.27-19.04.10:893][ 40]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.31
+[2018.01.27-19.04.10:894][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.08.11:093][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.08.11:128][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.08.34:941][861]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-19.08.34:959][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.08.34:960][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-19.08.34:960][861]PIE: New page: PIE session: NewMap (Jan 27, 2018, 1:08:34 PM)
+[2018.01.27-19.08.34:960][861]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.27-19.08.35:026][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065737s)
+[2018.01.27-19.08.35:026][861]LogAIModule: Creating AISystem for world NewMap
+[2018.01.27-19.08.35:027][861]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.01.27-19.08.35:027][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.067238s)
+[2018.01.27-19.08.35:037][861]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-19.08.35:050][861]LogInit: FAudioDevice initialized.
+[2018.01.27-19.08.35:081][861]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-19.08.35:087][861]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-16.08.35
+[2018.01.27-19.08.35:088][861]LogWorld: Bringing up level for play took: 0.005984
+[2018.01.27-19.08.35:090][861]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.507
+[2018.01.27-19.08.35:091][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.14.08:795][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.14.08:835][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-19.15.22:354][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-19.15.23:198][278]LogSavePackage: Save=818.34ms
+[2018.01.27-19.15.23:198][278]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap24A519CC4ECFFE74ECBD179223D319F2.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap'
+[2018.01.27-19.15.23:202][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap.umap
+[2018.01.27-19.15.23:240][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.01.27-19.15.23:466][278]LogSavePackage: Save=217.63ms
+[2018.01.27-19.15.23:466][278]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_BuiltData32F6929C4F6F042882EF529529F96E97.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset'
+[2018.01.27-19.15.23:469][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset
+[2018.01.27-19.25.23:079][232]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.011
+[2018.01.27-19.25.23:081][232]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_Antena] ([1] browsable assets)...
+[2018.01.27-19.25.23:132][232]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_Antena.M_Antena]
+[2018.01.27-19.25.23:132][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Antena]
+[2018.01.27-19.25.23:170][232]LogSavePackage: Save=35.69ms
+[2018.01.27-19.25.23:171][232]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/M_Antena_Auto2E9BC749F424A342DA0FBCCA1D00DBB9D.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_Antena_Auto2.uasset'
+[2018.01.27-19.25.23:173][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_Antena_Auto2.uasset
+[2018.01.27-19.25.23:173][232]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_Teclado] ([1] browsable assets)...
+[2018.01.27-19.25.23:225][232]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_Teclado.M_Teclado]
+[2018.01.27-19.25.23:225][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_Teclado]
+[2018.01.27-19.25.23:241][232]LogSavePackage: Save=13.83ms
+[2018.01.27-19.25.23:241][232]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/M_Teclado_Auto2C436A2CB40367D0186826CAAC27A4E0B.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_Teclado_Auto2.uasset'
+[2018.01.27-19.25.23:243][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_Teclado_Auto2.uasset
+[2018.01.27-19.25.23:244][232]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_PC] ([1] browsable assets)...
+[2018.01.27-19.25.23:293][232]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_PC.SM_PC]
+[2018.01.27-19.25.23:293][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_PC]
+[2018.01.27-19.25.23:293][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_PC" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/SM_PC_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.27-19.25.23:312][232]LogSavePackage: Save=16.14ms
+[2018.01.27-19.25.23:312][232]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/SM_PC_Auto23F6915754B8E05FE73A0CE8AF39349B8.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/SM_PC_Auto2.uasset'
+[2018.01.27-19.25.23:313][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/SM_PC_Auto2.uasset
+[2018.01.27-19.25.23:314][232]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_BordasDoPC] ([1] browsable assets)...
+[2018.01.27-19.25.23:351][232]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_BordasDoPC.M_BordasDoPC]
+[2018.01.27-19.25.23:351][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_BordasDoPC]
+[2018.01.27-19.25.23:368][232]LogSavePackage: Save=14.78ms
+[2018.01.27-19.25.23:368][232]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/M_BordasDoPC_Auto2A96AF6854CE1BE13A34841A725DD34F4.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_BordasDoPC_Auto2.uasset'
+[2018.01.27-19.25.23:370][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Assets/M_BordasDoPC_Auto2.uasset
+[2018.01.27-19.25.23:370][232]LogFileHelpers: Auto-saving content packages took 0.289
+[2018.01.27-19.26.29:809][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_Antena" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/M_Antena.uasset" SILENT=true
+[2018.01.27-19.26.29:826][ 66]LogSavePackage: Save=15.07ms
+[2018.01.27-19.26.29:827][ 66]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/M_Antena6CA4847B4E6E34D61C2FA88E46E5C349.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/M_Antena.uasset'
+[2018.01.27-19.26.29:884][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/M_Antena.uasset
+[2018.01.27-19.26.29:941][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_BordasDoPC" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/M_BordasDoPC.uasset" SILENT=true
+[2018.01.27-19.26.29:958][ 66]LogSavePackage: Save=14.73ms
+[2018.01.27-19.26.29:958][ 66]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/M_BordasDoPCFB12E63E40C998C880D4D8AE7FD3624B.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/M_BordasDoPC.uasset'
+[2018.01.27-19.26.29:967][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/M_BordasDoPC.uasset
+[2018.01.27-19.26.30:020][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_Teclado" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/M_Teclado.uasset" SILENT=true
+[2018.01.27-19.26.30:037][ 66]LogSavePackage: Save=14.25ms
+[2018.01.27-19.26.30:037][ 66]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/M_Teclado91BC598541C91C81B8F31F8A1B0B219D.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/M_Teclado.uasset'
+[2018.01.27-19.26.30:043][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/M_Teclado.uasset
+[2018.01.27-19.26.30:095][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Antena" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/SM_Antena.uasset" SILENT=true
+[2018.01.27-19.26.30:114][ 66]LogSavePackage: Save=16.78ms
+[2018.01.27-19.26.30:114][ 66]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/SM_Antena0E2ED3024E1517AC5C6BF9B75DA627C2.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/SM_Antena.uasset'
+[2018.01.27-19.26.30:120][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/SM_Antena.uasset
+[2018.01.27-19.26.30:173][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_PC" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/SM_PC.uasset" SILENT=true
+[2018.01.27-19.26.30:190][ 66]LogSavePackage: Save=15.22ms
+[2018.01.27-19.26.30:190][ 66]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/SM_PC0940E26D47787DC37A01C4ACB86ECD3D.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/SM_PC.uasset'
+[2018.01.27-19.26.30:196][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/SM_PC.uasset
+[2018.01.27-19.26.30:255][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Teclado" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/SM_Teclado.uasset" SILENT=true
+[2018.01.27-19.26.30:292][ 66]LogSavePackage: Save=35.59ms
+[2018.01.27-19.26.30:292][ 66]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/SM_Teclado69DADD604C74EECBA127C297ECC577F0.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/SM_Teclado.uasset'
+[2018.01.27-19.26.30:296][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Assets/SM_Teclado.uasset
+[2018.01.27-19.26.30:720][ 67]Cmd: QUIT_EDITOR
+[2018.01.27-19.26.31:017][ 67]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.27-19.26.31:054][ 67]LogExit: Preparing to exit.
+[2018.01.27-19.26.31:340][ 67]LogDirectoryWatcher: A directory notification for 'C:/Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/' was aborted.
+[2018.01.27-19.26.31:423][ 67]LogExit: Editor shut down
+[2018.01.27-19.26.31:457][ 67]LogExit: Transaction tracking system shut down
+[2018.01.27-19.26.31:583][ 67]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.27-19.26.31:583][ 67]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/' was aborted.
+[2018.01.27-19.26.31:583][ 67]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.27-19.26.31:583][ 67]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.27-19.26.31:583][ 67]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.27-19.26.31:583][ 67]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.27-19.26.31:583][ 67]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.27-19.26.31:717][ 67]LogExit: Object subsystem successfully closed.
+[2018.01.27-19.26.31:752][ 67]LogD3D11RHI: Shutdown
+[2018.01.27-19.26.31:752][ 67]LogD3D11RHI: CleanupD3DDevice
+[2018.01.27-19.26.31:760][ 67]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.27-19.26.31:779][ 67]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.01.27-19.26.31:779][ 67]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (552)
+[2018.01.27-19.26.31:779][ 67]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.01.27-19.26.31:779][ 67]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.01.27-19.26.31:779][ 67]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.01.27-19.26.31:779][ 67]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.27-19.26.31:785][ 67]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.01.27-19.26.31:785][ 67]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.01.27-19.26.31:785][ 67]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.01.27-19.26.31:785][ 67]LogDirectoryWatcher: A directory notification for 'C:/Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Collections/' was aborted.
+[2018.01.27-19.26.31:785][ 67]LogDirectoryWatcher: A directory notification for 'C:/Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Developers/MatheusDantas/Collections/' was aborted.
+[2018.01.27-19.26.31:785][ 67]LogDirectoryWatcher: A directory notification for 'C:/Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Collections/' was aborted.
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.27-19.26.31:786][ 67]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.27-19.26.31:787][ 67]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.27-19.26.31:788][ 67]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.27-19.26.31:810][ 67]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.27-19.26.31:810][ 67]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.27-19.26.31:810][ 67]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.27-19.26.31:810][ 67]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.27-19.26.31:810][ 67]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.27-19.26.32:181][ 67]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.27-19.26.32:181][ 67]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.27-19.26.32:181][ 67]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.27-19.26.32:181][ 67]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.27-19.26.32:181][ 67]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.27-19.26.32:181][ 67]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.27-19.26.32:181][ 67]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.27-19.26.32:181][ 67]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.27-19.26.32:181][ 67]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.27-19.26.32:182][ 67]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.27-19.26.32:238][ 67]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.27-19.26.32:239][ 67]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.27-19.26.32:240][ 67]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.27-19.26.32:240][ 67]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.27-19.26.32:240][ 67]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.27-19.26.32:281][ 67]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.27-19.26.32:282][ 67]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.27-19.26.32:284][ 67]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.27-19.26.32:284][ 67]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.27-19.26.32:284][ 67]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.27-19.26.32:284][ 67]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.27-19.26.32:284][ 67]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.27-19.26.32:284][ 67]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.27-19.26.32:284][ 67]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.27-19.26.32:285][ 67]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.27-19.26.32:285][ 67]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.27-19.26.32:285][ 67]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.27-19.26.32:285][ 67]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.27-19.26.32:386][ 67]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.27-19.26.32:486][ 67]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.27-19.26.32:486][ 67]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.27-19.26.32:486][ 67]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.27-19.26.32:486][ 67]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.27-19.26.32:486][ 67]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.27-19.26.32:486][ 67]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.27-19.26.32:488][ 67]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.27-19.26.32:488][ 67]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.27-19.26.32:488][ 67]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.27-19.26.32:488][ 67]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.27-19.26.32:490][ 67]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.27-19.26.32:490][ 67]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.27-19.26.32:490][ 67]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.27-19.26.32:490][ 67]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.27-19.26.32:490][ 67]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.27-19.26.32:490][ 67]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.27-19.26.32:496][ 67]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.27-19.26.32:497][ 67]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.27-19.26.32:497][ 67]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.27-19.26.32:497][ 67]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.27-19.26.32:499][ 67]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.27-19.26.32:499][ 67]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.27-19.26.32:499][ 67]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.27-19.26.32:499][ 67]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.27-19.26.32:499][ 67]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.27-19.26.32:499][ 67]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.27-19.26.32:499][ 67]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.27-19.26.32:499][ 67]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.27-19.26.32:507][ 67]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.27-19.26.32:507][ 67]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.27-19.26.32:507][ 67]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.27-19.26.32:508][ 67]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.27-19.26.32:508][ 67]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.27-19.26.32:508][ 67]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.27-19.26.32:508][ 67]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.27-19.26.32:508][ 67]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.27-19.26.32:508][ 67]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.27-19.26.32:556][ 67]LogDerivedDataCache: Shutdown
+[2018.01.27-19.26.32:556][ 67]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.27-19.26.32:557][ 67]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.27-19.26.32:558][ 67]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.27-19.26.32:559][ 67]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.27-19.26.32:559][ 67]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.27-19.26.32:559][ 67]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFB766B36-4B06-C957-E7F3-CB8D9A0CA235%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=94c3cc7d45c1c49ce99b4ba6248e79d2%7C3c937cf5e3324c47a53139c291b8ef80%7C5345d6ed-81dd-4d71-ad68-3ed2ee4bcd79&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.27-19.26.32:586][ 67]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.27-19.26.32:588][ 67]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.27-19.26.32:589][ 67]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.27-19.26.32:589][ 67]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.27-19.26.32:589][ 67]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.27-19.26.32:589][ 67]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.27-19.26.32:589][ 67]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.27-19.26.32:589][ 67]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.27-19.26.32:592][ 67]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.27-19.26.32:593][ 67]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.27-19.26.32:596][ 67]LogExit: Exiting.
+[2018.01.27-19.26.32:613][ 67]Log file closed, 01/27/18 16:26:32
+>>>>>>> Dishes
