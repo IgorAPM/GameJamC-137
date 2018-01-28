@@ -2117,3 +2117,501 @@ LogInit: Object subsystem initialized
 [2018.01.27-22.36.26:995][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
 [2018.01.27-22.37.42:896][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
 [2018.01.27-22.37.42:937][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-23.27.31:631][388]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-23.27.31:662][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-23.27.31:662][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-23.27.31:663][388]PIE: New page: PIE session: NewMap (Jan 27, 2018, 5:27:31 PM)
+[2018.01.27-23.27.31:673][388]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.27-23.27.31:871][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198279s)
+[2018.01.27-23.27.31:872][388]LogAIModule: Creating AISystem for world NewMap
+[2018.01.27-23.27.31:873][388]LogPlayLevel: PIE: World Init took: (0.001742s)
+[2018.01.27-23.27.31:873][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.200538s)
+[2018.01.27-23.27.31:900][388]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-23.27.31:913][388]LogInit: FAudioDevice initialized.
+[2018.01.27-23.27.31:951][388]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-23.27.31:959][388]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-20.27.31
+[2018.01.27-23.27.31:960][388]LogWorld: Bringing up level for play took: 0.007384
+[2018.01.27-23.27.31:965][388]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.618
+[2018.01.27-23.27.31:965][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-23.27.41:493][916]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-23.28.09:281][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-23.28.09:364][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.27-23.28.10:509][625]Cmd: SELECT NONE
+[2018.01.27-23.33.58:424][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.27-23.33.59:449][522]LogSavePackage: Save=982.51ms
+[2018.01.27-23.33.59:449][522]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_Auto4AD78AB8F46E156FB9A811D8E65E00AEA.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto4.umap'
+[2018.01.27-23.33.59:502][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto4.umap
+[2018.01.27-23.33.59:508][522]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 1.117
+[2018.01.27-23.33.59:508][522]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.117
+[2018.01.28-00.03.32:182][542]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.03.32:210][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.03.32:210][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.03.32:211][542]PIE: New page: PIE session: NewMap (Jan 27, 2018, 6:03:32 PM)
+[2018.01.28-00.03.32:211][542]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-00.03.32:338][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127242s)
+[2018.01.28-00.03.32:340][542]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-00.03.32:341][542]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2018.01.28-00.03.32:341][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.129652s)
+[2018.01.28-00.03.32:366][542]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-00.03.32:381][542]LogInit: FAudioDevice initialized.
+[2018.01.28-00.03.32:413][542]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.03.32:419][542]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-21.03.32
+[2018.01.28-00.03.32:420][542]LogWorld: Bringing up level for play took: 0.006484
+[2018.01.28-00.03.32:424][542]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.158
+[2018.01.28-00.03.32:435][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.05.44:960][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.05.45:076][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.07.24:358][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.28-00.07.25:477][383]LogSavePackage: Save=1095.10ms
+[2018.01.28-00.07.25:477][383]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_Auto596C889934DDCDC7EA84C139D7AA5F6A0.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto5.umap'
+[2018.01.28-00.07.25:482][383]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto5.umap
+[2018.01.28-00.07.25:485][383]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 1.155
+[2018.01.28-00.07.25:485][383]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.155
+[2018.01.28-00.08.42:831][  1]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.28-00.08.47:648][287]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.28-00.08.49:088][372]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.08.49:113][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.08.49:113][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.08.49:113][372]PIE: New page: PIE session: NewMap (Jan 27, 2018, 6:08:49 PM)
+[2018.01.28-00.08.49:113][372]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-00.08.49:202][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088553s)
+[2018.01.28-00.08.49:204][372]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-00.08.49:204][372]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2018.01.28-00.08.49:204][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.090559s)
+[2018.01.28-00.08.49:226][372]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-00.08.49:240][372]LogInit: FAudioDevice initialized.
+[2018.01.28-00.08.49:273][372]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.08.49:278][372]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-21.08.49
+[2018.01.28-00.08.49:278][372]LogWorld: Bringing up level for play took: 0.004526
+[2018.01.28-00.08.49:281][372]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.699
+[2018.01.28-00.08.49:281][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.09.36:546][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.09.36:588][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.17.42:453][297]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.17.42:478][297]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.17.42:478][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.17.42:478][297]PIE: New page: PIE session: NewMap (Jan 27, 2018, 6:17:42 PM)
+[2018.01.28-00.17.42:478][297]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-00.17.42:574][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095398s)
+[2018.01.28-00.17.42:575][297]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-00.17.42:575][297]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2018.01.28-00.17.42:575][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.096870s)
+[2018.01.28-00.17.42:598][297]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-00.17.42:609][297]LogInit: FAudioDevice initialized.
+[2018.01.28-00.17.42:640][297]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.17.42:646][297]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-21.17.42
+[2018.01.28-00.17.42:647][297]LogWorld: Bringing up level for play took: 0.006438
+[2018.01.28-00.17.42:653][297]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.071
+[2018.01.28-00.17.42:654][297]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.17.46:597][531]Set new viewmode: Wireframe
+[2018.01.28-00.18.14:298][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.18.14:342][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.18.25:502][841]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.28-00.18.32:723][272]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.28-00.18.34:385][371]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.18.34:408][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.18.34:408][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.18.34:408][371]PIE: New page: PIE session: NewMap (Jan 27, 2018, 6:18:34 PM)
+[2018.01.28-00.18.34:408][371]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-00.18.34:467][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058347s)
+[2018.01.28-00.18.34:467][371]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-00.18.34:468][371]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.01.28-00.18.34:468][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.059748s)
+[2018.01.28-00.18.34:490][371]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-00.18.34:501][371]LogInit: FAudioDevice initialized.
+[2018.01.28-00.18.34:534][371]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.18.34:539][371]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-21.18.34
+[2018.01.28-00.18.34:539][371]LogWorld: Bringing up level for play took: 0.004444
+[2018.01.28-00.18.34:542][371]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.04
+[2018.01.28-00.18.34:542][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.18.43:046][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.18.43:085][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.18.51:521][376]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-00.19.02:774][ 44]MapCheck: New page: Map Check
+[2018.01.28-00.19.02:832][ 44]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.28-00.19.02:857][ 44]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.28-00.19.05:164][ 44]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.28-00.19.05:171][ 44]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wall_Inst, compiling. 
+[2018.01.28-00.19.05:178][ 44]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Circuit_Inst, compiling. 
+[2018.01.28-00.19.05:185][ 44]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.28-00.19.05:192][ 44]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_BordasDoPC, compiling. 
+[2018.01.28-00.19.05:198][ 44]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Screen_Inst, compiling. 
+[2018.01.28-00.19.05:207][ 44]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Teclado, compiling. 
+[2018.01.28-00.19.06:026][ 44]TextureStreamingBuild: Display: Compiling optional shaders took 0.876 seconds.
+[2018.01.28-00.19.06:030][ 44]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2018.01.28-00.19.06:064][ 44]TextureStreamingBuild: Display: Build Texture Streaming took 0.034 seconds.
+[2018.01.28-00.19.06:102][ 44]LightingResults: New page: Lighting Build - Jan 27, 2018, 6:19:06 PM
+[2018.01.28-00.19.06:141][ 44]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.28-00.19.06:146][ 44]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.28-00.19.06:147][ 44]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.28-00.19.06:148][ 44]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.28-00.19.06:148][ 44]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12220
+[2018.01.28-00.19.10:663][ 44]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.28-00.19.10:663][ 44]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.28-00.19.10:663][ 44]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.28-00.19.10:663][ 44]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.28-00.19.10:663][ 44]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.28-00.19.10:837][ 44]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.28-00.19.10:838][ 44]MapCheck: New page: NewMap - Jan 27, 2018, 6:19:10 PM
+[2018.01.28-00.19.10:838][ 44]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.28-00.19.10:995][ 44]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 157.884ms to complete.
+[2018.01.28-00.19.11:018][ 44]LogEditorBuildUtils: Build time 0:08
+[2018.01.28-00.19.35:287][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.28-00.19.36:805][260]LogSavePackage: Save=1487.93ms
+[2018.01.28-00.19.36:805][260]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_Auto6DDF44F7B4D6F88D48253B7A4E6E946EF.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto6.umap'
+[2018.01.28-00.19.36:811][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto6.umap
+[2018.01.28-00.19.36:817][260]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 1.559
+[2018.01.28-00.19.36:817][260]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.559
+[2018.01.28-00.20.21:669][486]Job is a success!
+[2018.01.28-00.20.21:769][487]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.031s
+[2018.01.28-00.20.21:769][487]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.28-00.20.21:769][487]LogVolumetricLightmapImport:      BrickData 935x5x5 = 0.6Mb
+[2018.01.28-00.20.21:769][487]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.28-00.20.21:769][487]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2018.01.28-00.20.21:769][487]LogVolumetricLightmapImport:          1: 8.6% covering 25.0% of volume
+[2018.01.28-00.20.21:769][487]LogVolumetricLightmapImport:          2: 90.9% covering 4.2% of volume
+[2018.01.28-00.20.22:658][487]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.28-00.20.22:658][487]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.28-00.20.22:658][487]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.01.28-00.20.22:658][487]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.01.28-00.20.22:960][487]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2018.01.28-00.20.23:994][487]Lightmass on LAPTOP-GU3S6S0I: 1:10 min total, 219 ms importing, 55 ms setup, 30.5 sec photons, 39.7 sec processing, 0 ms extra exporting [848/848 mappings]. Threads: 4:38 min total, 2:14 min processing.
+[2018.01.28-00.20.24:001][487]LogStaticLightingSystem: Illumination: 1:17 min (525 ms encoding lightmaps, 298 ms encoding shadowmaps)
+[2018.01.28-00.20.24:001][487]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (0.0 MB streaming, 4.0 MB non-streaming), 4 textures
+[2018.01.28-00.20.24:022][487]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 1 textures
+[2018.01.28-00.20.29:681][487]DumpUnbuiltLightIteractions
+[2018.01.28-00.20.29:681][487]Lights with unbuilt interactions: 0
+[2018.01.28-00.20.29:681][487]
+[2018.01.28-00.20.29:682][487]Primitives with unbuilt interactions: 0
+[2018.01.28-00.20.29:693][488]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.28-00.20.29:694][488]MapCheck: New page: NewMap - Jan 27, 2018, 6:20:29 PM
+[2018.01.28-00.20.29:764][488]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.363ms to complete.
+[2018.01.28-00.20.33:686][713]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.20.33:713][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.20.33:714][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.20.33:714][713]PIE: New page: PIE session: NewMap (Jan 27, 2018, 6:20:33 PM)
+[2018.01.28-00.20.33:714][713]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-00.20.33:782][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067858s)
+[2018.01.28-00.20.33:784][713]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-00.20.33:784][713]LogPlayLevel: PIE: World Init took: (0.001939s)
+[2018.01.28-00.20.33:785][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.070321s)
+[2018.01.28-00.20.33:805][713]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-00.20.33:818][713]LogInit: FAudioDevice initialized.
+[2018.01.28-00.20.33:854][713]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.20.33:860][713]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-21.20.33
+[2018.01.28-00.20.33:860][713]LogWorld: Bringing up level for play took: 0.005597
+[2018.01.28-00.20.33:863][713]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.719
+[2018.01.28-00.20.33:864][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.21.08:622][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.21.08:776][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.25.19:381][668]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-00.25.22:154][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-00.25.22:230][757]LogSavePackage: Save=41.05ms
+[2018.01.28-00.25.22:230][757]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/BP_Relay2B96292B4F6B30760455B08EFDC68413.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-00.25.22:241][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-00.27.09:152][160]LogEditorTransaction: Undo Add Component
+[2018.01.28-00.31.29:362][525]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.31.33:426][761]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.31.49:304][705]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.31.51:608][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:609][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:609][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:609][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_Teclado.SM_Teclado] ScaledElem[0] invalid
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:611][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:612][831]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:640][832]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:640][832]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:640][832]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:640][832]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.51:640][832]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.51:640][832]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_Teclado.SM_Teclado] ScaledElem[0] invalid
+[2018.01.28-00.31.52:050][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:050][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:050][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:050][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_Teclado.SM_Teclado] ScaledElem[0] invalid
+[2018.01.28-00.31.52:051][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:051][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:051][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:052][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:053][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:053][857]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:068][858]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:068][858]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:068][858]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:068][858]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_PC.SM_PC] ScaledElem[0] invalid
+[2018.01.28-00.31.52:068][858]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.28-00.31.52:068][858]LogPhysics: Warning: ForeachShape(Convex): [/Game/Assets/SM_Teclado.SM_Teclado] ScaledElem[0] invalid
+[2018.01.28-00.31.59:553][303]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.16:406][288]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.17:305][341]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.17:996][382]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.19:094][432]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.19:458][435]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.19:756][446]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.20:399][482]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.20:772][502]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.30:654][ 72]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.52:290][334]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.52:548][343]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.52:864][354]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.53:313][377]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.53:604][394]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.53:861][397]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.54:072][402]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.54:365][414]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.32.55:236][414]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.33.42:062][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.28-00.33.43:252][ 90]LogSavePackage: Save=1169.27ms
+[2018.01.28-00.33.43:252][ 90]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_Auto7ED0096944FFBB2222C269A925C39D4E5.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto7.umap'
+[2018.01.28-00.33.43:255][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto7.umap
+[2018.01.28-00.33.43:260][ 90]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 1.571
+[2018.01.28-00.33.43:260][ 90]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.571
+[2018.01.28-00.33.43:262][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewMap_BuiltData] ([1] browsable assets)...
+[2018.01.28-00.33.43:263][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMap_BuiltData]
+[2018.01.28-00.33.43:431][ 90]LogSavePackage: Save=116.87ms
+[2018.01.28-00.33.43:431][ 90]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_BuiltData_Auto79F2FDC7640365C33A61BF28DA57DA814.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_BuiltData_Auto7.uasset'
+[2018.01.28-00.33.43:434][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_BuiltData_Auto7.uasset
+[2018.01.28-00.33.43:435][ 90]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Relay] ([1] browsable assets)...
+[2018.01.28-00.33.43:514][ 90]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Relay.BP_Relay]
+[2018.01.28-00.33.43:514][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Relay]
+[2018.01.28-00.33.43:592][ 90]LogSavePackage: Save=46.57ms
+[2018.01.28-00.33.43:592][ 90]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/BP_Relay_Auto722160A9E4735C9B8F2E340941CF37AE5.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto7.uasset'
+[2018.01.28-00.33.43:597][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto7.uasset
+[2018.01.28-00.33.43:597][ 90]LogFileHelpers: Auto-saving content packages took 0.336
+[2018.01.28-00.38.43:996][990]LogEditorTransaction: Undo Set Scale
+[2018.01.28-00.38.50:440][990]LogStats: FPlatformStackWalk::StackWalkAndDump -  6.373 s
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: 
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: 
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: Stack: 
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: [Callstack] 0x000000007B272786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: [Callstack] 0x000000007B01123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: [Callstack] 0x000000007B02B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: [Callstack] 0x0000000076890B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:441][990]LogOutputDevice: Error: [Callstack] 0x000000007683DD9F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x000000007033C07B UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x000000007033CE85 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000702DFB10 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000702E4747 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000078081290 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000078075FD1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000078044A47 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000078046C17 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000780E3675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077EF8CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077E98824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000074149844 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000073EE1859 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000073E7092C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000073E7562C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x000000007423AC89 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000741E0AAB UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000741E4A4A UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000741E2DD7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000742412CC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000073E1D7B0 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000073E9DA3D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000073EEE0CD UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x000000007683EA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000076866112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x000000007684DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x000000007684E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000768B28FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000768F5A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000073E70FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000073E75D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077E99636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077ED83A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000770ABE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077097803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077E863A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077E5700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077E58C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077ED988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000077ECBEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000097CAE28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000097CA1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000097CB03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000097C9D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000B78FB85D USER32.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000B78FB1EF USER32.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x0000000097CB1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000B4E050C8 UE4Editor.exe!UnknownFunction []
+[2018.01.28-00.38.50:442][990]LogOutputDevice: Error: [Callstack] 0x00000000B4E15430 UE4Editor.exe!UnknownFunction []
+[2018.01.28-00.38.50:443][990]LogOutputDevice: Error: [Callstack] 0x00000000B4E154AA UE4Editor.exe!UnknownFunction []
+[2018.01.28-00.38.50:443][990]LogOutputDevice: Error: [Callstack] 0x00000000B4E22379 UE4Editor.exe!UnknownFunction []
+[2018.01.28-00.38.50:443][990]LogOutputDevice: Error: [Callstack] 0x00000000B4E23D57 UE4Editor.exe!UnknownFunction []
+[2018.01.28-00.38.50:443][990]LogOutputDevice: Error: [Callstack] 0x00000000B63E1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.28-00.38.50:443][990]LogOutputDevice: Error: [Callstack] 0x00000000B8F5EFB1 ntdll.dll!UnknownFunction []
+[2018.01.28-00.38.50:443][990]LogOutputDevice: Error: 
+[2018.01.28-00.38.50:464][990]LogStats:                SubmitErrorReport -  0.019 s
+[2018.01.28-00.39.03:253][990]LogStats:                    SendNewReport - 12.789 s
+[2018.01.28-00.39.03:253][990]LogStats:             FDebug::EnsureFailed - 19.204 s
+[2018.01.28-00.39.03:361][990]Cmd: TRANSACTION UNDO
+[2018.01.28-00.39.03:361][990]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.39.03:492][990]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.39.13:564][553]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.39.55:969][ 72]Cmd: MODE GRID=0
+[2018.01.28-00.40.03:835][540]Cmd: MODE SCALEGRID=0
+[2018.01.28-00.40.12:366][ 47]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.28-00.41.57:615][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-00.41.57:891][287]LogSavePackage: Save=40.79ms
+[2018.01.28-00.41.57:891][287]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/BP_Relay15E360974A4486980431DA9590D62B64.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-00.41.57:928][287]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-00.41.59:444][375]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-00.42.10:861][846]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.42.10:904][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.42.10:905][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.42.10:905][846]PIE: New page: PIE session: NewMap (Jan 27, 2018, 6:42:10 PM)
+[2018.01.28-00.42.10:905][846]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-00.42.10:995][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089555s)
+[2018.01.28-00.42.10:996][846]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-00.42.10:996][846]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2018.01.28-00.42.10:996][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.090969s)
+[2018.01.28-00.42.11:033][846]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-00.42.11:047][846]LogInit: FAudioDevice initialized.
+[2018.01.28-00.42.11:080][846]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.42.11:125][846]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-21.42.11
+[2018.01.28-00.42.11:126][846]LogWorld: Bringing up level for play took: 0.044725
+[2018.01.28-00.42.11:129][846]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.546
+[2018.01.28-00.42.11:129][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.42.22:378][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.42.22:426][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.42.38:370][426]BlueprintLog: New page: Compile UI_Men
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.World_9:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Game/NewMap.NewMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Game/NewMap.NewMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Game/NewMap.NewMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Game/NewMap.NewMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Game/NewMap.NewMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Game/NewMap.NewMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Game/NewMap.NewMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Game/NewMap.NewMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.39:697][426]PIE: UWidget::RemoveFromParent() called on '/Game/NewMap.NewMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.01.28-00.42.41:354][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Men" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/UI/UI_Men.uasset" SILENT=true
+[2018.01.28-00.42.41:409][524]LogSavePackage: Save=38.97ms
+[2018.01.28-00.42.41:409][524]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/UI_MenEE8DE0BF4F7E79BE89536ABF2BBE58FD.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/UI/UI_Men.uasset'
+[2018.01.28-00.42.41:417][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/UI/UI_Men.uasset
+[2018.01.28-00.42.50:863][ 81]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-00.42.54:458][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-00.42.54:529][166]LogSavePackage: Save=59.02ms
+[2018.01.28-00.42.54:529][166]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/BP_Relay76D9752B4EDE76E89D17909BF02BCF1D.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-00.42.54:533][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-00.43.05:838][844]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.43.05:882][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.43.05:883][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.43.05:883][844]PIE: New page: PIE session: NewMap (Jan 27, 2018, 6:43:05 PM)
+[2018.01.28-00.43.05:883][844]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-00.43.05:953][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070229s)
+[2018.01.28-00.43.05:954][844]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-00.43.05:954][844]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2018.01.28-00.43.05:955][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.071595s)
+[2018.01.28-00.43.05:998][844]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-00.43.06:010][844]LogInit: FAudioDevice initialized.
+[2018.01.28-00.43.06:046][844]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.43.06:057][844]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-21.43.06
+[2018.01.28-00.43.06:058][844]LogWorld: Bringing up level for play took: 0.010583
+[2018.01.28-00.43.06:060][844]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.522
+[2018.01.28-00.43.06:061][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.43.12:379][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.43.12:429][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.43.12:980][249]Cmd: SELECT NONE
+[2018.01.28-00.43.14:764][356]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.43.14:799][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.43.14:799][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.43.14:799][356]PIE: New page: PIE session: NewMap (Jan 27, 2018, 6:43:14 PM)
+[2018.01.28-00.43.14:800][356]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-00.43.14:870][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070763s)
+[2018.01.28-00.43.14:871][356]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-00.43.14:871][356]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.01.28-00.43.14:871][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.072056s)
+[2018.01.28-00.43.14:914][356]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-00.43.14:927][356]LogInit: FAudioDevice initialized.
+[2018.01.28-00.43.14:959][356]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.43.14:970][356]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-21.43.14
+[2018.01.28-00.43.14:971][356]LogWorld: Bringing up level for play took: 0.011792
+[2018.01.28-00.43.14:973][356]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.391
+[2018.01.28-00.43.14:974][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.43.31:836][366]Cmd: LevelEditor.ToggleImmersive
+[2018.01.28-00.43.37:827][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.43.37:909][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.43.38:618][754]Cmd: SELECT NONE
+[2018.01.28-00.45.09:641][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.28-00.45.12:094][155]LogSavePackage: Save=2429.93ms
+[2018.01.28-00.45.12:094][155]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_Auto8E26D7D074CADBF97A8C929BB72DBB510.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto8.umap'
+[2018.01.28-00.45.12:099][155]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto8.umap
+[2018.01.28-00.45.12:104][155]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 2.535
+[2018.01.28-00.45.12:105][155]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.535
+[2018.01.28-00.45.12:110][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Relay] ([1] browsable assets)...
+[2018.01.28-00.45.12:171][155]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Relay.BP_Relay]
+[2018.01.28-00.45.12:172][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Relay]
+[2018.01.28-00.45.12:218][155]LogSavePackage: Save=37.13ms
+[2018.01.28-00.45.12:218][155]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/BP_Relay_Auto896CC4E684074D2FF43742DBE162718A0.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto8.uasset'
+[2018.01.28-00.45.12:221][155]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto8.uasset
+[2018.01.28-00.45.12:221][155]LogFileHelpers: Auto-saving content packages took 0.112
+[2018.01.28-00.46.11:306][695]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-00.46.23:821][185]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0207 seconds. Added 1 classes and 2 folders.
+[2018.01.28-00.49.39:932][797]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.49.39:986][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.49.39:987][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.49.39:987][797]PIE: New page: PIE session: NewMap (Jan 27, 2018, 6:49:39 PM)
+[2018.01.28-00.49.39:987][797]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-00.49.40:069][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081785s)
+[2018.01.28-00.49.40:070][797]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-00.49.40:070][797]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2018.01.28-00.49.40:071][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.083471s)
+[2018.01.28-00.49.40:116][797]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-00.49.40:127][797]LogInit: FAudioDevice initialized.
+[2018.01.28-00.49.40:162][797]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.49.40:173][797]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.27-21.49.40
+[2018.01.28-00.49.40:174][797]LogWorld: Bringing up level for play took: 0.011331
+[2018.01.28-00.49.40:176][797]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.406
+[2018.01.28-00.49.40:177][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.49.43:425][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.49.43:473][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-00.55.31:137][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.28-00.55.33:683][728]LogSavePackage: Save=2526.15ms
+[2018.01.28-00.55.33:683][728]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/NewMap_Auto92584D4834CAA437CA9E86D8D7320E272.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto9.umap'
+[2018.01.28-00.55.33:689][728]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto9.umap
+[2018.01.28-00.55.33:694][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 2.628
+[2018.01.28-00.55.33:694][728]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.628
+[2018.01.28-00.55.33:698][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Relay] ([1] browsable assets)...
+[2018.01.28-00.55.33:816][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Relay.BP_Relay]
+[2018.01.28-00.55.33:816][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Relay]
+[2018.01.28-00.55.33:871][728]LogSavePackage: Save=39.27ms
+[2018.01.28-00.55.33:871][728]LogSavePackage: Moving '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/BP_Relay_Auto9475DFFED4D05899C9D7EC2A2803E100B.tmp' to '../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto9.uasset'
+[2018.01.28-00.55.33:874][728]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matheus Dantas/Desktop/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto9.uasset
+[2018.01.28-00.55.33:875][728]LogFileHelpers: Auto-saving content packages took 0.177
