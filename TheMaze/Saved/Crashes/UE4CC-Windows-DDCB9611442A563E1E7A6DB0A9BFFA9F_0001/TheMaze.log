@@ -1,0 +1,925 @@
+﻿Log file open, 01/28/18 09:41:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheMaze
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-401065558) SRandInit(-401065558).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.209442
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.28-11.41.43:850][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-11.41.43:850][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-11.41.43:930][  0]LogInit: Computer: LAPTOP-FQD9TJSN
+[2018.01.28-11.41.43:930][  0]LogInit: User: jesus
+[2018.01.28-11.41.43:930][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.28-11.41.43:930][  0]LogInit: High frequency timer resolution =2.648440 MHz
+[2018.01.28-11.41.43:930][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.28-11.41.43:930][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-11.41.43:930][  0]LogMemory: Process Physical Memory: 271.86 MB used, 271.86 MB peak
+[2018.01.28-11.41.43:930][  0]LogMemory: Process Virtual Memory: 269.29 MB used, 269.29 MB peak
+[2018.01.28-11.41.43:930][  0]LogMemory: Physical Memory: 4947.54 MB used,  3158.13 MB free, 8105.67 MB total
+[2018.01.28-11.41.43:930][  0]LogMemory: Virtual Memory: 626.11 MB used,  3158.13 MB free, 134217728.00 MB total
+[2018.01.28-11.41.44:358][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.01.28-11.41.44:358][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.01.28-11.41.45:255][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.28-11.41.47:760][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-11.41.47:769][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.01.28-11.41.47:769][  0]LogD3D11RHI:       128/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.01.28-11.41.47:771][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.28-11.41.47:771][  0]LogD3D11RHI:       0/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-11.41.47:771][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-11.41.47:780][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-11.41.47:780][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-11.41.47:780][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-11.41.47:780][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.01.28-11.41.47:781][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.01.28-11.41.47:781][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.01.28-11.41.47:781][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.01.28-11.41.47:781][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.01.28-11.41.47:781][  0]LogD3D11RHI:   Driver Version: 21.20.16.4590 (internal:21.20.16.4590, unified:21.20.16.4590)
+[2018.01.28-11.41.47:781][  0]LogD3D11RHI:      Driver Date: 1-18-2017
+[2018.01.28-11.41.47:781][  0]LogRHI: Texture pool is 1508 MB (70% of 2154 MB)
+[2018.01.28-11.41.47:788][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-11.41.47:794][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.01.28-11.41.47:795][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Intermediate/Shaders/WorkingDirectory/18836/).
+[2018.01.28-11.41.47:795][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jesus/AppData/Local/Temp/UnrealShaderWorkingDir/1CEF785B484858DEF199458B087BCD98/'.
+[2018.01.28-11.41.47:795][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-11.41.51:320][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-11.41.51:424][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-11.41.51:522][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-11.41.51:626][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-11.41.51:739][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-11.41.51:832][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-11.41.51:922][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-11.41.52:015][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-11.41.52:088][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-11.41.52:179][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-11.41.52:254][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-11.41.52:338][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-11.41.52:431][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-11.41.52:535][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-11.41.52:704][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-11.41.52:705][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-11.41.52:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-11.41.52:922][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-11.41.53:066][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-11.41.53:108][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-11.41.53:190][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-11.41.53:284][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-11.41.53:369][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-11.41.53:470][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-11.41.53:470][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-11.41.54:513][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-11.41.55:520][  0]LogDerivedDataCache: Loaded boot cache 1.01s 78MB C:/Users/jesus/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-11.41.55:520][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jesus/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.28-11.41.55:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-11.41.55:521][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-11.41.55:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-11.41.55:521][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-11.41.55:539][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-11.41.55:552][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jesus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-11.41.55:563][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.28-11.41.55:563][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-11.41.55:643][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-11.41.55:643][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-11.42.00:668][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-11.42.01:326][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-11.42.01:402][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-11.42.01:402][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-11.42.01:402][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-11.42.01:402][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-11.42.01:402][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-11.42.01:448][  0]LogNetVersion: TheMaze , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3710529420)
+[2018.01.28-11.42.01:669][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.01.28-11.42.02:414][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.072443 seconds
+[2018.01.28-11.42.02:422][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.28-11.42.02:422][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.28-11.42.02:422][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-11.42.02:514][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-11.42.49:574][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-11.42.49:656][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-11.42.51:256][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-11.42.52:087][  0]SourceControl: Source control is disabled
+[2018.01.28-11.42.52:087][  0]SourceControl: Source control is disabled
+[2018.01.28-11.42.52:180][  0]SourceControl: Source control is disabled
+[2018.01.28-11.42.52:322][  0]SourceControl: Source control is disabled
+[2018.01.28-11.42.54:115][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-11.42.54:676][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-11.42.55:263][  0]LogEngine: Initializing Engine...
+[2018.01.28-11.42.55:266][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-11.42.55:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-11.42.55:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-11.42.55:874][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-11.42.55:886][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-11.42.56:403][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-11.42.56:629][  0]LogDerivedDataCache: Saved boot cache 0.23s 78MB C:/Users/jesus/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-11.42.56:646][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-11.42.56:862][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-11.42.57:082][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-11.42.57:667][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-11.42.59:578][  0]LocalizationService: Localization service is disabled
+[2018.01.28-11.43.00:709][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.01.28-11.43.00:709][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.01.28-11.43.00:709][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2018.01.28-11.43.01:147][  0]LogConsoleResponse: Display: 
+[2018.01.28-11.43.02:629][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-11.43.02:630][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-11.43.02:630][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-11.43.02:993][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jesus/Documents/GameJamC-137/TheMaze/Content/' took 0.02s
+[2018.01.28-11.43.05:547][  0]SourceControl: Source control is disabled
+[2018.01.28-11.43.05:547][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-11.43.05:548][  0]LightingResults: New page: Lighting Build
+[2018.01.28-11.43.05:609][  0]MapCheck: New page: Map Check
+[2018.01.28-11.43.05:609][  0]LightingResults: New page: Lighting Build
+[2018.01.28-11.43.07:500][  0]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-11.43.07:576][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-11.43.07:609][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-11.43.07:721][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.811ms to complete.
+[2018.01.28-11.43.07:721][  0]LogFileHelpers: Loading map 'NewMap' took 2.174
+[2018.01.28-11.43.08:079][  0]LogCollectionManager: Loaded 0 collections in 0.002589 seconds
+[2018.01.28-11.43.08:185][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Collections/' took 0.01s
+[2018.01.28-11.43.08:185][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jesus/Documents/GameJamC-137/TheMaze/Content/Developers/jesus/Collections/' took 0.01s
+[2018.01.28-11.43.08:185][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jesus/Documents/GameJamC-137/TheMaze/Content/Collections/' took 0.01s
+[2018.01.28-11.43.08:185][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.28-11.43.08:196][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2363 classes and 519 folders.
+[2018.01.28-11.43.08:294][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.28-11.43.09:740][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.28-11.43.09:826][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.28-11.43.10:073][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-11.43.10:073][  0]LogLoad: (Engine Initialization) Total time: 101.22 seconds
+[2018.01.28-11.43.10:073][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-11.43.10:073][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.28-11.43.10:073][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.28-11.43.10:093][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-11.43.10:110][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.01.28-11.43.10:136][  0]LogSlate: Took 0.024252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-11.43.10:151][  0]LogSlate: Took 0.013767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-11.43.10:166][  0]LogSlate: Took 0.010273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-11.43.10:403][  0]LogSlate: Took 0.031261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-11.43.10:443][  1]LogRenderer: Reallocating scene render targets to support 700x372 Format 9 NumSamples 1 (Frame:1).
+[2018.01.28-11.43.10:460][  1]LogAssetRegistry: Asset discovery search completed in 68.8129 seconds
+[2018.01.28-11.43.10:464][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.28-11.43.10:464][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.01.28-11.43.14:223][ 77]LogRenderer: Reallocating scene render targets to support 748x384 Format 9 NumSamples 1 (Frame:77).
+[2018.01.28-11.43.22:772][437]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-11.43.22:906][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.43.22:906][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-11.43.22:953][437]PIE: New page: PIE session: NewMap (Jan 28, 2018, 7:43:22 AM)
+[2018.01.28-11.43.22:953][437]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-11.43.23:082][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128706s)
+[2018.01.28-11.43.23:082][437]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-11.43.23:083][437]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2018.01.28-11.43.23:083][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.130178s)
+[2018.01.28-11.43.23:106][437]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-11.43.23:126][437]LogInit: FAudioDevice initialized.
+[2018.01.28-11.43.23:171][437]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-11.43.23:181][437]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-09.43.23
+[2018.01.28-11.43.23:182][437]LogWorld: Bringing up level for play took: 0.009449
+[2018.01.28-11.43.23:269][437]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.28-11.43.23:301][437]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.433
+[2018.01.28-11.43.23:301][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.43.36:428][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.43.36:482][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.43.37:893][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-11.43.42:400][222]LogSlate: Took 0.000655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-11.43.42:959][222]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.01.28-11.43.43:999][222]LogSlate: Took 0.010768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-11.43.44:240][223]LogSlate: Took 0.014980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-11.44.28:867][847]LogSlate: Took 0.026608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.28-11.44.36:684][299]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-11.44.38:649][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-11.44.38:804][331]LogSavePackage: Save=132.93ms
+[2018.01.28-11.44.38:804][331]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/BP_Relay38346219484A99A29FFCCEA89133FD07.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-11.44.38:817][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-11.46.01:813][506]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-11.49.50:260][454]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-11.51.52:614][429]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-11.54.18:684][ 16]BlueprintLog: New page: Compile UI_ChalengFacil
+[2018.01.28-11.54.20:391][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/DesafiosFaceis/UI_ChalengFacil" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset" SILENT=true
+[2018.01.28-11.54.20:521][ 57]LogSavePackage: Save=102.71ms
+[2018.01.28-11.54.20:521][ 57]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/UI_ChalengFacil0AF4ADE44ADEBB47AC2CA294F92543FC.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset'
+[2018.01.28-11.54.20:531][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset
+[2018.01.28-11.54.54:461][627]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-11.54.54:897][627]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.436 s
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: 
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: Stack: 
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x0000000031EC2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x0000000031C6123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x0000000031C7B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x000000002DBF33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x000000002B4003AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x000000002A4E3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x000000002A3774AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x000000002A37ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x000000002A4A8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x000000002EAF7397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-11.54.54:897][627]LogOutputDevice: Error: [Callstack] 0x000000002EAFCE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x000000002ED39913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x000000002EB53484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x000000002EB2B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x000000002EB1D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x000000005520E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x0000000055201A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x00000000552103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x00000000551FD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x00000000791EBC50 USER32.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x00000000791EB5CF USER32.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x0000000055211516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x0000000021DF50C8 UE4Editor.exe!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x0000000021E05430 UE4Editor.exe!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x0000000021E054AA UE4Editor.exe!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x0000000021E12379 UE4Editor.exe!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x0000000021E13D57 UE4Editor.exe!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x000000007A032774 KERNEL32.DLL!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: [Callstack] 0x000000007B5F0D51 ntdll.dll!UnknownFunction []
+[2018.01.28-11.54.54:898][627]LogOutputDevice: Error: 
+[2018.01.28-11.54.54:902][627]LogStats:                SubmitErrorReport -  0.000 s
+[2018.01.28-11.54.55:509][627]LogStats:                    SendNewReport -  0.607 s
+[2018.01.28-11.54.55:509][627]LogStats:             FDebug::EnsureFailed -  1.048 s
+[2018.01.28-11.54.55:510][627]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-11.55.08:220][373]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-11.55.11:173][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-11.55.11:348][459]LogSavePackage: Save=150.23ms
+[2018.01.28-11.55.11:348][459]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/BP_Relay3B5998314E413C5DF901F1A27B4C78ED.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-11.55.11:363][459]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-11.55.12:024][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-11.55.12:156][496]LogSavePackage: Save=114.81ms
+[2018.01.28-11.55.12:156][496]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/BP_Relay69EA64424DC8264BAE848A873F94FEC3.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-11.55.12:166][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-11.55.12:404][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-11.55.12:531][509]LogSavePackage: Save=110.07ms
+[2018.01.28-11.55.12:532][509]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/BP_RelayB6A7A96C4FC16C4333CD1B8A2121A258.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-11.55.12:539][509]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-11.55.15:388][626]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-11.55.15:451][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.55.15:451][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-11.55.15:451][626]PIE: New page: PIE session: NewMap (Jan 28, 2018, 7:55:15 AM)
+[2018.01.28-11.55.15:451][626]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-11.55.15:585][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133853s)
+[2018.01.28-11.55.15:586][626]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-11.55.15:587][626]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2018.01.28-11.55.15:587][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.135220s)
+[2018.01.28-11.55.15:628][626]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-11.55.15:650][626]LogInit: FAudioDevice initialized.
+[2018.01.28-11.55.15:685][626]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-11.55.15:693][626]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-09.55.15
+[2018.01.28-11.55.15:695][626]LogWorld: Bringing up level for play took: 0.009058
+[2018.01.28-11.55.15:722][626]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.855
+[2018.01.28-11.55.15:722][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.55.25:491][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.55.25:545][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.55.29:452][231]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-11.55.40:827][777]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.28-11.56.52:246][689]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-11.56.52:277][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.56.52:278][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-11.56.52:278][689]PIE: New page: PIE session: NewMap (Jan 28, 2018, 7:56:52 AM)
+[2018.01.28-11.56.52:278][689]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-11.56.52:395][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116678s)
+[2018.01.28-11.56.52:396][689]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-11.56.52:396][689]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2018.01.28-11.56.52:396][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.118211s)
+[2018.01.28-11.56.52:431][689]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-11.56.52:451][689]LogInit: FAudioDevice initialized.
+[2018.01.28-11.56.52:486][689]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-11.56.52:495][689]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-09.56.52
+[2018.01.28-11.56.52:497][689]LogWorld: Bringing up level for play took: 0.010345
+[2018.01.28-11.56.52:525][689]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.342
+[2018.01.28-11.56.52:525][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.56.59:816][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.56.59:878][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.57.05:807][321]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-11.57.10:342][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.28-11.57.11:615][498]LogSavePackage: Save=1191.14ms
+[2018.01.28-11.57.11:615][498]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/NewMapAB268D704C1898C660855AB339EF80B7.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap.umap'
+[2018.01.28-11.57.11:633][498]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap.umap
+[2018.01.28-11.57.11:671][498]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-11.57.11:675][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.01.28-11.57.12:116][498]LogSavePackage: Save=415.65ms
+[2018.01.28-11.57.12:116][498]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/NewMap_BuiltDataAB7A3AA442E942B11F4C5ABE7E7DD81D.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset'
+[2018.01.28-11.57.12:122][498]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset
+[2018.01.28-11.57.14:440][587]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-11.57.14:477][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.57.14:477][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-11.57.14:478][587]PIE: New page: PIE session: NewMap (Jan 28, 2018, 7:57:14 AM)
+[2018.01.28-11.57.14:478][587]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-11.57.14:580][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101818s)
+[2018.01.28-11.57.14:580][587]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-11.57.14:581][587]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2018.01.28-11.57.14:581][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.103358s)
+[2018.01.28-11.57.14:616][587]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-11.57.14:642][587]LogInit: FAudioDevice initialized.
+[2018.01.28-11.57.14:682][587]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-11.57.14:691][587]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-09.57.14
+[2018.01.28-11.57.14:693][587]LogWorld: Bringing up level for play took: 0.009238
+[2018.01.28-11.57.14:718][587]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.15
+[2018.01.28-11.57.14:718][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.57.34:291][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.57.34:351][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.57.40:893][693]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-11.58.10:601][356]BlueprintLog: New page: Compile UI_ChalengFacil
+[2018.01.28-11.58.11:781][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/DesafiosFaceis/UI_ChalengFacil" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset" SILENT=true
+[2018.01.28-11.58.11:898][414]LogSavePackage: Save=99.64ms
+[2018.01.28-11.58.11:899][414]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/UI_ChalengFacil9D523CBD418644B01B0DBF87D1C7669B.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset'
+[2018.01.28-11.58.11:912][414]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset
+[2018.01.28-11.58.15:482][575]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-11.58.15:522][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.58.15:522][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-11.58.15:522][575]PIE: New page: PIE session: NewMap (Jan 28, 2018, 7:58:15 AM)
+[2018.01.28-11.58.15:522][575]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-11.58.15:639][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117205s)
+[2018.01.28-11.58.15:640][575]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-11.58.15:641][575]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2018.01.28-11.58.15:641][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.118657s)
+[2018.01.28-11.58.15:675][575]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-11.58.15:696][575]LogInit: FAudioDevice initialized.
+[2018.01.28-11.58.15:731][575]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-11.58.15:739][575]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-09.58.15
+[2018.01.28-11.58.15:740][575]LogWorld: Bringing up level for play took: 0.008774
+[2018.01.28-11.58.15:766][575]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.898
+[2018.01.28-11.58.15:766][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.58.22:134][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.58.22:183][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.59.10:606][708]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-11.59.10:635][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.59.10:636][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-11.59.10:636][708]PIE: New page: PIE session: NewMap (Jan 28, 2018, 7:59:10 AM)
+[2018.01.28-11.59.10:636][708]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-11.59.10:752][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116937s)
+[2018.01.28-11.59.10:753][708]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-11.59.10:754][708]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2018.01.28-11.59.10:754][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.118395s)
+[2018.01.28-11.59.10:786][708]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-11.59.10:807][708]LogInit: FAudioDevice initialized.
+[2018.01.28-11.59.10:846][708]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-11.59.10:854][708]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-09.59.10
+[2018.01.28-11.59.10:856][708]LogWorld: Bringing up level for play took: 0.009096
+[2018.01.28-11.59.10:889][708]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.021
+[2018.01.28-11.59.10:889][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.59.10:996][708]LogRenderer: Reallocating scene render targets to support 1124x656 Format 9 NumSamples 1 (Frame:1).
+[2018.01.28-11.59.22:362][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.59.22:422][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.59.24:589][107]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-11.59.24:619][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.59.24:619][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-11.59.24:619][107]PIE: New page: PIE session: NewMap (Jan 28, 2018, 7:59:24 AM)
+[2018.01.28-11.59.24:619][107]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-11.59.24:744][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124234s)
+[2018.01.28-11.59.24:744][107]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-11.59.24:745][107]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2018.01.28-11.59.24:745][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.126109s)
+[2018.01.28-11.59.24:786][107]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-11.59.24:807][107]LogInit: FAudioDevice initialized.
+[2018.01.28-11.59.24:847][107]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-11.59.24:855][107]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-09.59.24
+[2018.01.28-11.59.24:856][107]LogWorld: Bringing up level for play took: 0.008425
+[2018.01.28-11.59.24:892][107]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.024
+[2018.01.28-11.59.24:893][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.59.41:912][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.59.42:031][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-11.59.54:059][ 51]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay2)
+[2018.01.28-12.00.15:453][769]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay10)
+[2018.01.28-12.00.32:212][339]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-12.00.32:247][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.00.32:247][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-12.00.32:247][339]PIE: New page: PIE session: NewMap (Jan 28, 2018, 8:00:32 AM)
+[2018.01.28-12.00.32:247][339]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-12.00.32:362][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115427s)
+[2018.01.28-12.00.32:363][339]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-12.00.32:363][339]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2018.01.28-12.00.32:364][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.116838s)
+[2018.01.28-12.00.32:397][339]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-12.00.32:419][339]LogInit: FAudioDevice initialized.
+[2018.01.28-12.00.32:451][339]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-12.00.32:460][339]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-10.00.32
+[2018.01.28-12.00.32:462][339]LogWorld: Bringing up level for play took: 0.009916
+[2018.01.28-12.00.32:487][339]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.381
+[2018.01.28-12.00.32:487][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.00.37:567][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.00.37:620][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.00.38:517][584]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.00.55:124][115]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.00.57:173][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.28-12.00.58:472][178]LogSavePackage: Save=1240.00ms
+[2018.01.28-12.00.58:473][178]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/NewMapB29FAB5B4858CEDDC02AC09E297807C9.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap.umap'
+[2018.01.28-12.00.58:484][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap.umap
+[2018.01.28-12.00.58:529][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.01.28-12.00.58:911][178]LogSavePackage: Save=363.07ms
+[2018.01.28-12.00.58:911][178]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/NewMap_BuiltDataA1DBDF9F4EE44ECA710F74BBA7F69B18.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset'
+[2018.01.28-12.00.58:917][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/NewMap_BuiltData.uasset
+[2018.01.28-12.01.01:039][246]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-12.01.01:088][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.01.01:088][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-12.01.01:088][246]PIE: New page: PIE session: NewMap (Jan 28, 2018, 8:01:01 AM)
+[2018.01.28-12.01.01:088][246]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-12.01.01:195][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106606s)
+[2018.01.28-12.01.01:196][246]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-12.01.01:196][246]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2018.01.28-12.01.01:196][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.108065s)
+[2018.01.28-12.01.01:232][246]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-12.01.01:251][246]LogInit: FAudioDevice initialized.
+[2018.01.28-12.01.01:285][246]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-12.01.01:293][246]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-10.01.01
+[2018.01.28-12.01.01:294][246]LogWorld: Bringing up level for play took: 0.008984
+[2018.01.28-12.01.01:320][246]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.453
+[2018.01.28-12.01.01:321][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.01.09:484][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.01.09:538][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.01.13:493][706]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-12.01.13:545][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.01.13:545][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-12.01.13:546][706]PIE: New page: PIE session: NewMap (Jan 28, 2018, 8:01:13 AM)
+[2018.01.28-12.01.13:546][706]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-12.01.13:661][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116072s)
+[2018.01.28-12.01.13:662][706]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-12.01.13:662][706]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2018.01.28-12.01.13:663][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.117581s)
+[2018.01.28-12.01.13:704][706]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-12.01.13:724][706]LogInit: FAudioDevice initialized.
+[2018.01.28-12.01.13:758][706]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-12.01.13:766][706]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-10.01.13
+[2018.01.28-12.01.13:767][706]LogWorld: Bringing up level for play took: 0.008768
+[2018.01.28-12.01.13:793][706]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.925
+[2018.01.28-12.01.13:793][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.02.37:428][523]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.02.37:480][523]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.08.01:456][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-12.08.01:497][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.08.01:497][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-12.08.01:497][ 89]PIE: New page: PIE session: NewMap (Jan 28, 2018, 8:08:01 AM)
+[2018.01.28-12.08.01:497][ 89]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-12.08.01:628][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130969s)
+[2018.01.28-12.08.01:629][ 89]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-12.08.01:630][ 89]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2018.01.28-12.08.01:630][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.132713s)
+[2018.01.28-12.08.01:666][ 89]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-12.08.01:695][ 89]LogInit: FAudioDevice initialized.
+[2018.01.28-12.08.01:729][ 89]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-12.08.01:737][ 89]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-10.08.01
+[2018.01.28-12.08.01:739][ 89]LogWorld: Bringing up level for play took: 0.009390
+[2018.01.28-12.08.01:772][ 89]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.904
+[2018.01.28-12.08.01:772][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.08.23:523][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.08.23:578][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.08.27:759][109]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-12.08.27:792][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.08.27:792][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-12.08.27:792][109]PIE: New page: PIE session: NewMap (Jan 28, 2018, 8:08:27 AM)
+[2018.01.28-12.08.27:792][109]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-12.08.27:910][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117920s)
+[2018.01.28-12.08.27:911][109]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-12.08.27:911][109]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2018.01.28-12.08.27:912][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.119648s)
+[2018.01.28-12.08.27:949][109]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-12.08.27:974][109]LogInit: FAudioDevice initialized.
+[2018.01.28-12.08.28:010][109]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-12.08.28:018][109]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-10.08.28
+[2018.01.28-12.08.28:019][109]LogWorld: Bringing up level for play took: 0.008929
+[2018.01.28-12.08.28:050][109]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 1.182
+[2018.01.28-12.08.28:050][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.09.37:712][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.09.37:766][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.09.49:876][460]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-12.09.49:933][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.09.49:933][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-12.09.49:933][460]PIE: New page: PIE session: NewMap (Jan 28, 2018, 8:09:49 AM)
+[2018.01.28-12.09.49:934][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-12.09.50:058][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124044s)
+[2018.01.28-12.09.50:059][460]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-12.09.50:059][460]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2018.01.28-12.09.50:060][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.125724s)
+[2018.01.28-12.09.50:092][460]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-12.09.50:113][460]LogInit: FAudioDevice initialized.
+[2018.01.28-12.09.50:149][460]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-12.09.50:156][460]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-10.09.50
+[2018.01.28-12.09.50:158][460]LogWorld: Bringing up level for play took: 0.008471
+[2018.01.28-12.09.50:186][460]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.681
+[2018.01.28-12.09.50:187][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.09.50:780][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.09.50:839][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.09.54:194][587]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.18.40:694][  9]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay3)
+[2018.01.28-12.18.52:425][383]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.18.55:673][485]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay3)
+[2018.01.28-12.19.07:170][854]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay2)
+[2018.01.28-12.19.11:993][  8]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.19.15:202][109]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay2)
+[2018.01.28-12.19.20:573][274]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay10)
+[2018.01.28-12.19.23:977][376]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.19.27:534][479]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.19.32:665][630]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay2)
+[2018.01.28-12.19.39:242][812]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay4)
+[2018.01.28-12.20.30:977][453]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay3)
+[2018.01.28-12.20.33:787][541]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.20.43:717][832]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay4)
+[2018.01.28-12.20.53:724][144]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay2)
+[2018.01.28-12.24.16:956][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-12.24.17:124][ 96]LogSavePackage: Save=142.07ms
+[2018.01.28-12.24.17:124][ 96]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/BP_Relay2FBA82CD4253E14E51451CBBAED77B4D.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-12.24.17:130][ 96]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-12.24.17:625][125]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-12.25.10:563][177]BlueprintLog: New page: Compile UI_ChalengFacil
+[2018.01.28-12.25.51:548][517]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-12.25.55:186][646]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-12.25.55:239][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.25.55:239][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-12.25.55:239][646]PIE: New page: PIE session: NewMap (Jan 28, 2018, 8:25:55 AM)
+[2018.01.28-12.25.55:239][646]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-12.25.55:363][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123419s)
+[2018.01.28-12.25.55:363][646]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-12.25.55:364][646]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2018.01.28-12.25.55:364][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.125017s)
+[2018.01.28-12.25.55:400][646]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-12.25.55:421][646]LogInit: FAudioDevice initialized.
+[2018.01.28-12.25.55:458][646]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-12.25.55:466][646]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-10.25.55
+[2018.01.28-12.25.55:467][646]LogWorld: Bringing up level for play took: 0.008812
+[2018.01.28-12.25.55:503][646]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.636
+[2018.01.28-12.25.55:504][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.26.07:354][944]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.26.07:495][944]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.26.20:850][488]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.26.40:850][145]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-12.26.40:887][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.26.40:888][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-12.26.40:888][145]PIE: New page: PIE session: NewMap (Jan 28, 2018, 8:26:40 AM)
+[2018.01.28-12.26.40:888][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-12.26.41:009][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121696s)
+[2018.01.28-12.26.41:010][145]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-12.26.41:010][145]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2018.01.28-12.26.41:011][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.123112s)
+[2018.01.28-12.26.41:068][145]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-12.26.41:092][145]LogInit: FAudioDevice initialized.
+[2018.01.28-12.26.41:129][145]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-12.26.41:137][145]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-10.26.41
+[2018.01.28-12.26.41:139][145]LogWorld: Bringing up level for play took: 0.009344
+[2018.01.28-12.26.41:167][145]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.3
+[2018.01.28-12.26.41:168][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.26.54:548][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.26.54:611][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.27.30:654][793]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-12.27.30:657][793]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-12.27.30:662][793]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-12.27.30:663][793]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-12.27.30:664][793]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-12.27.30:934][805]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-12.27.30:935][805]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-12.27.30:943][805]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-12.27.30:944][805]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-12.27.30:946][805]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-12.27.33:333][946]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-12.27.33:335][946]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-12.27.33:340][946]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-12.27.33:341][946]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-12.27.33:342][946]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-12.28.25:803][ 72]BlueprintLog: New page: Compile UI_ChalengFacil
+[2018.01.28-12.28.26:821][123]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-12.28.26:861][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.28.26:861][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-12.28.26:861][123]PIE: New page: PIE session: NewMap (Jan 28, 2018, 8:28:26 AM)
+[2018.01.28-12.28.26:861][123]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.01.28-12.28.26:975][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114273s)
+[2018.01.28-12.28.26:976][123]LogAIModule: Creating AISystem for world NewMap
+[2018.01.28-12.28.26:976][123]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2018.01.28-12.28.26:976][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.115710s)
+[2018.01.28-12.28.27:013][123]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-12.28.27:035][123]LogInit: FAudioDevice initialized.
+[2018.01.28-12.28.27:076][123]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-12.28.27:084][123]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.01.28-10.28.27
+[2018.01.28-12.28.27:085][123]LogWorld: Bringing up level for play took: 0.008635
+[2018.01.28-12.28.27:117][123]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.25
+[2018.01.28-12.28.27:118][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.28.48:518][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.28.48:635][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2018.01.28-12.29.55:994][628]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-12.29.56:073][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.28-12.29.57:347][628]LogSavePackage: Save=1243.40ms
+[2018.01.28-12.29.57:347][628]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/NewMap_Auto1D0B84DAC40F9A47B3445EBAD4CF33E06.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2018.01.28-12.29.57:355][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto1.umap
+[2018.01.28-12.29.57:365][628]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-12.29.57:366][628]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 1.328
+[2018.01.28-12.29.57:366][628]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.328
+[2018.01.28-12.29.57:373][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Relay] ([1] browsable assets)...
+[2018.01.28-12.29.57:425][628]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Relay.BP_Relay]
+[2018.01.28-12.29.57:425][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Relay]
+[2018.01.28-12.29.57:573][628]LogSavePackage: Save=125.43ms
+[2018.01.28-12.29.57:573][628]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/BP_Relay_Auto1F1C0E28B4B3DF07EB872F1BABCF1BA15.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto1.uasset'
+[2018.01.28-12.29.57:580][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto1.uasset
+[2018.01.28-12.29.57:583][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/DesafiosFaceis/UI_ChalengFacil] ([1] browsable assets)...
+[2018.01.28-12.29.57:583][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/DesafiosFaceis/UI_ChalengFacil]
+[2018.01.28-12.29.57:712][628]LogSavePackage: Save=108.34ms
+[2018.01.28-12.29.57:712][628]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/UI_ChalengFacil_Auto1B112A0104D64EF632C217B80BBA6E00F.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/UI/DesafiosFaceis/UI_ChalengFacil_Auto1.uasset'
+[2018.01.28-12.29.57:718][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/UI/DesafiosFaceis/UI_ChalengFacil_Auto1.uasset
+[2018.01.28-12.29.57:718][628]LogFileHelpers: Auto-saving content packages took 0.349
+[2018.01.28-12.30.00:363][778]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-12.30.35:287][845]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-12.30.44:107][273]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-12.30.44:161][273]LogClass: Warning: Type mismatch in Answers of BP_Relay_C - Previous (TextProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.01.28-12.39.58:241][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.28-12.40.00:046][997]LogSavePackage: Save=1764.04ms
+[2018.01.28-12.40.00:054][997]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/NewMap_Auto2B1F861394F75C708940368A7737D7519.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2018.01.28-12.40.00:071][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/NewMap_Auto2.umap
+[2018.01.28-12.40.00:081][997]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 1.897
+[2018.01.28-12.40.00:081][997]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.897
+[2018.01.28-12.40.00:087][997]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Relay] ([1] browsable assets)...
+[2018.01.28-12.40.00:162][997]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Relay.BP_Relay]
+[2018.01.28-12.40.00:162][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Relay]
+[2018.01.28-12.40.00:388][997]LogSavePackage: Save=199.63ms
+[2018.01.28-12.40.00:388][997]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/BP_Relay_Auto22D68A2034F333D8FD4E99FAA8F99D456.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto2.uasset'
+[2018.01.28-12.40.00:405][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/Autosaves/Game/Blueprints/BP_Relay_Auto2.uasset
+[2018.01.28-12.40.00:405][997]LogFileHelpers: Auto-saving content packages took 0.321
+[2018.01.28-12.42.26:865][655]LogSlate: Took 0.059819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.01.28-12.43.09:539][154]BlueprintLog: New page: Compile UI_ChalengFacil
+[2018.01.28-12.43.10:316][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/DesafiosFaceis/UI_ChalengFacil" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset" SILENT=true
+[2018.01.28-12.43.10:448][191]LogSavePackage: Save=109.79ms
+[2018.01.28-12.43.10:448][191]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/UI_ChalengFacil2BD57D6E45C45A588533DAA7038CB612.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset'
+[2018.01.28-12.43.10:461][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset
+[2018.01.28-12.46.50:023][480]BlueprintLog: New page: Compile UI_ChalengFacil
+[2018.01.28-12.46.50:906][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/DesafiosFaceis/UI_ChalengFacil" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset" SILENT=true
+[2018.01.28-12.46.51:039][524]LogSavePackage: Save=114.39ms
+[2018.01.28-12.46.51:039][524]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/UI_ChalengFacil37F7394042AEA6A84A95819F116E7CDD.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset'
+[2018.01.28-12.46.51:054][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/UI/DesafiosFaceis/UI_ChalengFacil.uasset
+[2018.01.28-12.47.05:865][405]LogSlate: Took 0.000450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-12.47.33:612][469]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.37:731][715]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.37:731][715]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.37:733][715]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.37:734][715]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.37:736][715]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.37:747][716]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.37:749][716]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.37:751][716]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.38:321][750]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.38:322][750]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.38:324][750]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.38:328][750]LogUObjectBase: Warning: Object is not registered
+[2018.01.28-12.47.51:308][518]BlueprintLog: New page: Compile BP_Relay
+[2018.01.28-12.47.53:283][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-12.47.53:480][545]LogSavePackage: Save=171.99ms
+[2018.01.28-12.47.53:480][545]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/BP_Relay3DAAFE5A45D7C59F48ED19B91FAF8EB8.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-12.47.53:494][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-12.48.00:698][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Relay" FILE="../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset" SILENT=true
+[2018.01.28-12.48.00:844][971]LogSavePackage: Save=127.47ms
+[2018.01.28-12.48.00:844][971]LogSavePackage: Moving '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Saved/BP_Relay3045BDDC4A6FA96239AFA7A12C9A6FBA.tmp' to '../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset'
+[2018.01.28-12.48.00:858][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jesus/Documents/GameJamC-137/TheMaze/Content/Blueprints/BP_Relay.uasset
+[2018.01.28-12.48.41:450][367]LogEditorViewport: Clicking on Actor (LMB): BP_Relay_C (BP_Relay)
+[2018.01.28-12.51.24:278][992]LogEditorTransaction: Undo Edit X
+[2018.01.28-12.51.24:590][992]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.303 s
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: 
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: 
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: Stack: 
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000031EC2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000031C6123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000031C7B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002D830B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002D7DDE01 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002AA22643 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002AA234D9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002AA674B8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000027386695 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x00000000273839EC UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x00000000274101DB UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000027414FF7 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x00000000271009D5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002720763E UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x00000000271673C7 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002716D227 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002ED33675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002EB48CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002EAE8824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000028BFB4DC UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000028CA66B2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000028C437D6 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000028BF12E5 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000028CD2619 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x0000000028CA016B UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002C020B8C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002C02588C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002F0DD4D7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002DB8B5FF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002C18E721 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002D7DEA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002D806112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002D7EDCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002D7EE61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002D8528FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002D895A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002C020FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-12.51.24:590][992]LogOutputDevice: Error: [Callstack] 0x000000002C025D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000002EAE9636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000002EB283A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000002E04BE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000002E037803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000002EAD63A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000002EAA700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000002EAA8C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000002EB2988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000002EB1BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000005520E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x0000000055201A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x00000000552103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x00000000551FD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x00000000791EBC50 USER32.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x00000000791EB5CF USER32.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x0000000055211516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x0000000021DF50C8 UE4Editor.exe!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x0000000021E05430 UE4Editor.exe!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x0000000021E054AA UE4Editor.exe!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x0000000021E12379 UE4Editor.exe!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x0000000021E13D57 UE4Editor.exe!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000007A032774 KERNEL32.DLL!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: [Callstack] 0x000000007B5F0D51 ntdll.dll!UnknownFunction []
+[2018.01.28-12.51.24:591][992]LogOutputDevice: Error: 
+[2018.01.28-12.51.24:594][992]LogStats:                SubmitErrorReport -  0.000 s
